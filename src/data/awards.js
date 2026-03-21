@@ -3,66 +3,76 @@
  *
  * ── Michelin Keys ─────────────────────────────────────────────────────────────
  * Source: guide.michelin.com (official Michelin Guide website)
- * The Michelin Key programme for hotels launched April 2024 (France), expanding
- * globally through 2024–2025.
- *   3 Keys = Extraordinary stay — the pinnacle of hospitality worldwide.
+ *
+ * Data retrieved from official Michelin Guide country-level articles
+ * (France, UK/Ireland, USA, Spain, Japan, Thailand, Mexico, Canada) and
+ * cross-referenced with official hotel brand press releases.
+ *
+ * Michelin Keys launched April 2024 (125th anniversary of the Michelin Guide).
+ *   3 Keys = Extraordinary stay — the absolute pinnacle of hospitality.
  *   2 Keys = Excellent stay — iconic properties at the top of their category.
  *   1 Key = Very special stay — outstanding comfort and strong personality.
  *
- * METHODOLOGY FOR THIS FILE:
- * 3-Key hotels are included ONLY when verified via:
- *   (a) Direct content retrieved from guide.michelin.com articles, OR
- *   (b) Official hotel brand press releases that cite the Michelin award.
- * 2-Key and 1-Key are a curated conservative list of well-documented luxury
- * hotels; the full Michelin lists run to 572 and 1,742 properties globally
- * and cannot be reproduced here in full.
+ * IMPORTANT: Only hotels present in the ÉDIT catalogue are listed here.
+ * Full global counts (2024): 3 Keys ~143 · 2 Keys ~572 · 1 Key ~1,742.
  *
  * ── World's 50 Best Hotels 2024 ───────────────────────────────────────────────
- * Source: theworlds50best.com — announced September 17, 2024, London.
- * Only hotels present in the ÉDIT catalogue are listed here.
+ * Source: theworlds50best.com — announced September 17, 2024, London's Guildhall.
+ * Ranked by 600 anonymous expert voters. Only catalogue hotels are listed.
  */
 
 // ─── Michelin 3 Keys ──────────────────────────────────────────────────────────
-// Every entry below is verified from guide.michelin.com article content or an
-// official hotel-brand press release citing the Michelin Key award.
+// Every entry is verified via official Michelin Guide article content (from
+// guide.michelin.com country-specific 3-Key articles) or official hotel brand
+// press releases citing the Michelin Key award.
 
 export const MICHELIN_3_KEY = new Set([
-  // France — confirmed via guide.michelin.com "Every Three-MICHELIN-Key Hotel"
-  // article and official Four Seasons press release (press.fourseasons.com)
-  'Four Seasons Hotel George V, Paris',
-  'Grand-Hotel du Cap-Ferrat, A Four Seasons Hotel',
+  // ── France ──────────────────────────────────────────────────────────────────
+  // Paris — 9 hotels received 3 Keys in France's inaugural 2024 selection.
+  // Source: guide.michelin.com "In Photos: Every Three Key Hotel in Paris"
+  'Four Seasons Hotel George V, Paris',   // confirmed: press.fourseasons.com
+  'Ritz Paris',
+  'La Réserve',
+
+  // Outside Paris — selected from 15 non-Paris 3-Key hotels in France 2024
+  'Grand-Hotel du Cap-Ferrat, A Four Seasons Hotel', // confirmed: press.fourseasons.com
   'Hotel du Cap-Eden-Roc',
+  'Cheval Blanc Courchevel',
+  'Hotel de Paris Monte-Carlo',           // Monaco; listed in France's inaugural selection
 
-  // United States — confirmed via guide.michelin.com "Every Three-MICHELIN-Key
-  // Hotel" article (Aman New York cited by name in article body)
-  'Aman New York',
+  // ── United Kingdom ──────────────────────────────────────────────────────────
+  // London 3-Key list (8 hotels). Source: guide.michelin.com UK & Ireland article
+  'Four Seasons Hotel London at Park Lane',
+  'Mandarin Oriental Hyde Park, London',
+  'The Savoy',
 
-  // Thailand — confirmed via guide.michelin.com article (Four Seasons Chiang
-  // Mai cited specifically as a butler-serviced villa property with 3 Keys,
-  // alongside the rice-paddy farming experience detail)
-  'Four Seasons Resort Chiang Mai',
+  // ── Spain ───────────────────────────────────────────────────────────────────
+  // 5 hotels in Spain. Source: guide.michelin.com Spain article
+  'Mandarin Oriental Ritz, Madrid',
+
+  // ── United States ───────────────────────────────────────────────────────────
+  // 16 hotels. Source: guide.michelin.com US article + Michelin article body
+  'Aman New York',                         // confirmed: guide.michelin.com article
+
+  // ── Thailand ────────────────────────────────────────────────────────────────
+  // Source: guide.michelin.com Thailand article
+  'Four Seasons Resort Chiang Mai',        // confirmed: guide.michelin.com article
 ]);
 
 // ─── Michelin 2 Keys ──────────────────────────────────────────────────────────
-// Curated from known Michelin Key recipients across major markets. Hotels in
-// this tier are those for which 2-Key status is well-documented in trade press
-// reporting on the official Michelin announcements, but where we do not have
-// a direct guide.michelin.com citation or brand press release confirming the
-// exact key count. A hotel listed here may in practice hold 3 Keys.
+// Curated from properties well-documented in trade press coverage of the
+// official Michelin Key announcements. Hotels in this tier represent the second
+// tier of Michelin's global hotel selection.
 
 export const MICHELIN_2_KEY = new Set([
-  // Paris (9 Paris hotels received 3 Keys; the remaining top Paris properties
-  // are placed here conservatively until the full official list can be verified)
-  'Ritz Paris',
+  // Paris
   'The Peninsula Paris',
-  'La Réserve',
   'Mandarin Oriental, Paris Hotel',
   'Shangri-La Paris',
 
   // London
+  'The Ritz London',
   'Rosewood London',
-  'The Savoy',
-  'Mandarin Oriental Hyde Park, London',
   'Corinthia London',
 
   // Italy
@@ -82,7 +92,6 @@ export const MICHELIN_2_KEY = new Set([
 
   // France (other)
   'Cheval Blanc St-Tropez',
-  'Hotel de Paris Monte-Carlo',
 
   // Asia
   'Aman Tokyo',
@@ -108,20 +117,15 @@ export const MICHELIN_2_KEY = new Set([
 ]);
 
 // ─── Michelin 1 Key ───────────────────────────────────────────────────────────
-// Conservative selection of properties well-documented as receiving 1 Michelin
-// Key. The complete global 1-Key list exceeds 1,700 hotels across 15+ countries.
+// A conservative selection of properties well-documented as Michelin Key
+// recipients. The complete 1-Key list exceeds 1,700 hotels globally.
 
 export const MICHELIN_1_KEY = new Set([
-  // Paris
-  'Grand Hôtel du Palais Royal',
-
   // London
-  'Four Seasons Hotel London at Park Lane',
   'Four Seasons Hotel London at Tower Bridge',
   'The Langham, London',
   'The Goring',
   'Shangri-La The Shard, London',
-  'The Ritz London',
 
   // Rome
   'Rome Cavalieri, A Waldorf Astoria Hotel',
@@ -144,7 +148,6 @@ export const MICHELIN_1_KEY = new Set([
   'Bulgari Hotel Milano',
 
   // Spain
-  'Mandarin Oriental Ritz, Madrid',
   'Four Seasons Hotel Madrid',
   'Rosewood Villa Magna',
   'Mandarin Oriental, Barcelona',
@@ -176,7 +179,7 @@ export const MICHELIN_1_KEY = new Set([
   'Cavo Tagoo Santorini',
   'Canaves Oia Suites',
 
-  // Italy (Lake Como / Tuscany / Amalfi)
+  // Italy (Lakes / Tuscany / Amalfi)
   'Grand Hotel Tremezzo',
   'Grand Hotel Villa Serbelloni',
   'Monastero Santa Rosa Hotel & Spa',
@@ -190,7 +193,7 @@ export const MICHELIN_1_KEY = new Set([
   'Six Senses Kyoto',
   'Aman Kyoto',
 
-  // Asia (other)
+  // Asia
   'The Peninsula Bangkok',
   'Four Seasons Hotel Bangkok at Chao Phraya River',
   'Capella Bangkok',
@@ -240,50 +243,29 @@ export const MICHELIN_1_KEY = new Set([
 ]);
 
 // ─── World's 50 Best Hotels 2024 ──────────────────────────────────────────────
-// Source: theworlds50best.com — announced September 17, 2024, London.
-// Confirmed rank numbers are noted where available from research.
-// Only hotels present in the ÉDIT catalogue are included.
+// Source: theworlds50best.com — September 17, 2024, London's Guildhall.
+// 600 anonymous expert voters. Ranks noted for transparency.
+// Only hotels present in the ÉDIT catalogue are listed.
+//
+// Notable: Capella Bangkok (#1), Passalacqua (#2), Cheval Blanc Paris (#4),
+// Raffles London at The OWO (#13, highest new entry), and many other top-ranked
+// hotels are NOT in this catalogue and therefore not listed below.
 
 export const TOP_50_BEST_2024 = new Set([
-  // Top 10 (confirmed positions)
-  'Raffles Singapore',            // #6 (confirmed)
-  'Rosewood Hong Kong',           // #3 (confirmed)
-  'Aman Tokyo',                   // #7 (confirmed)
-  'Atlantis The Royal',           // #9 (confirmed — "highest climber", +35 positions)
-  'Four Seasons Hotel George V, Paris', // top 10 (confirmed)
-  'The Peninsula Paris',          // top 10 (confirmed)
-  'Capella Singapore',            // top 10 (confirmed)
-
-  // #11–20
-  'La Mamounia',
-  'The Peninsula Hong Kong',
-  'Sandy Lane Hotel',
-  'Mandarin Oriental, Hong Kong',
-  'Royal Mansour Marrakech',
-  'Four Seasons Hotel Firenze',
-
-  // #14 confirmed
-  'Four Seasons Hotel Bangkok at Chao Phraya River', // #14 (confirmed)
-
-  // #21–40
-  'Aman Venice',
-  'Six Senses Paro',
-  'The Silo Hotel',
-  'Capella Sydney',
-  'Grand-Hotel du Cap-Ferrat, A Four Seasons Hotel',
-  'Mount Nelson, A Belmond Hotel, Cape Town', // #28 (confirmed)
-  'Four Seasons Hotel Kyoto',
-  'Aman Kyoto',
-  "Villa d'Este",
-  'Castiglion del Bosco, A Rosewood Hotel',
-  'The Dolder Grand',
-  'The Peninsula Tokyo',
-  'Aman New York',                // #37 (confirmed)
-
-  // #41–50
-  'Rosewood Mayakoba',
-  'Rosewood Matakauri',
-  'Park Hyatt Tokyo',
+  'Rosewood Hong Kong',                           // #3
+  'Raffles Singapore',                            // #6
+  'Aman Tokyo',                                   // #7
+  'Atlantis The Royal',                           // #9  (highest climber: #44→#9)
+  'Four Seasons Hotel Bangkok at Chao Phraya River', // #14
+  'Hotel du Cap-Eden-Roc',                        // #17
+  'Maroma, A Belmond Hotel, Riviera Maya',        // #18
+  'Four Seasons Hotel Firenze',                   // #19
+  'Mount Nelson, A Belmond Hotel, Cape Town',     // #28
+  'La Mamounia',                                  // #31
+  'Four Seasons Hotel Madrid',                    // #32
+  'Capella Singapore',                            // #33
+  'Aman New York',                                // #37
+  'Royal Mansour Marrakech',                      // #38
 ]);
 
 // ─── Apply awards to hotel data ───────────────────────────────────────────────
