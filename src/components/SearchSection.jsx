@@ -1,13 +1,13 @@
 import { useState, useRef, useEffect } from 'react';
 import DateRangePicker from './DateRangePicker';
-import { hotels } from '../data/hotels';
+import hotelsData from '../data/hotels-real.json';
 
 // Build autocomplete suggestions from all unique cities/countries
 const SUGGESTIONS = [
   ...new Set([
-    ...hotels.map((h) => h.city),
-    ...hotels.map((h) => h.country),
-    ...hotels.map((h) => h.region),
+    ...hotelsData.map((h) => h.city),
+    ...hotelsData.map((h) => h.country),
+    ...hotelsData.map((h) => h.region),
   ]),
 ].sort();
 
@@ -72,12 +72,12 @@ export default function SearchSection({ locationQuery, onLocationChange, dateRan
         {/* Headline */}
         <div className="text-center mb-10">
           <p className="text-gold text-[10px] tracking-[0.4em] uppercase mb-4 font-light">
-            500 Curated Properties
+            895 Curated Properties
           </p>
           <h1 className="font-serif text-cream text-3xl sm:text-4xl md:text-5xl font-normal leading-tight mb-4">
-            The World's Finest Hotels,
+            Where Nature Meets
             <br />
-            <em className="text-gold">Perfectly Curated</em>
+            <em className="text-gold">Extraordinary Luxury</em>
           </h1>
           <p className="text-cream-muted text-sm font-light max-w-xl mx-auto">
             Discover and book extraordinary stays at the world's most prestigious hotels and resorts.

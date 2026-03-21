@@ -5,16 +5,16 @@ export default function Header() {
         {/* Logo */}
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 border border-gold/60 flex items-center justify-center">
-            <span className="font-serif italic text-gold text-lg leading-none">A</span>
+            <span className="font-serif italic text-gold text-lg leading-none">É</span>
           </div>
           <div>
-            <span className="font-serif text-cream text-xl tracking-[0.2em] uppercase">Aurum</span>
+            <span className="font-serif text-cream text-xl tracking-[0.2em] uppercase">ÉDIT</span>
           </div>
         </div>
 
         {/* Tagline — hidden on mobile */}
         <p className="hidden md:block text-cream-muted text-xs tracking-[0.25em] uppercase font-light">
-          500 Curated Luxury Properties &middot; One Seamless Experience
+          895 Curated Luxury Properties &middot; One Seamless Experience
         </p>
 
         {/* Right nav */}

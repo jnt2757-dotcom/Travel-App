@@ -118,20 +118,20 @@ export default function App() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-6">
             <div className="flex items-center gap-3">
               <div className="w-7 h-7 border border-gold/40 flex items-center justify-center">
-                <span className="font-serif italic text-gold text-base leading-none">A</span>
+                <span className="font-serif italic text-gold text-base leading-none">É</span>
               </div>
               <div>
-                <span className="font-serif text-cream text-lg tracking-[0.2em] uppercase">Aurum</span>
+                <span className="font-serif text-cream text-lg tracking-[0.2em] uppercase">ÉDIT</span>
                 <p className="text-cream-muted text-[10px] tracking-widest mt-0.5">
                   Curated Luxury Travel
                 </p>
               </div>
             </div>
             <p className="text-cream-muted text-xs tracking-wider text-center">
-              500 hand-selected properties · Michelin-recognized · Forbes-rated
+              895 hand-selected properties · Michelin-recognized · Forbes-rated
             </p>
             <p className="text-cream-muted text-[10px] tracking-wider">
-              © {new Date().getFullYear()} Aurum Travel. All rights reserved.
+              © {new Date().getFullYear()} ÉDIT Travel. All rights reserved.
             </p>
           </div>
         </div>

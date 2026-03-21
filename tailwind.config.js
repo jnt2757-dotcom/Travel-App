@@ -7,25 +7,25 @@ export default {
   theme: {
     extend: {
       colors: {
-        'gold': '#C9A96E',
-        'gold-light': '#E8D5B0',
-        'gold-dark': '#8B6914',
-        'dark': '#080808',
-        'dark-card': '#111111',
-        'dark-card-hover': '#161616',
-        'dark-border': '#252525',
-        'dark-border-hover': '#3A3A3A',
-        'cream': '#F0EAD6',
-        'cream-muted': '#9B9380',
-        'luxury-red': '#8B1A1A',
+        'gold': '#7D9E6A',
+        'gold-light': '#B2C9A0',
+        'gold-dark': '#4A6B3C',
+        'dark': '#0B0F08',
+        'dark-card': '#101509',
+        'dark-card-hover': '#161D0F',
+        'dark-border': '#243020',
+        'dark-border-hover': '#3A4E2E',
+        'cream': '#ECE8D5',
+        'cream-muted': '#8A9678',
+        'luxury-red': '#7B4A2A',
       },
       fontFamily: {
         'serif': ['"Playfair Display"', 'Georgia', 'serif'],
         'sans': ['Inter', 'system-ui', 'sans-serif'],
       },
       backgroundImage: {
-        'gold-gradient': 'linear-gradient(135deg, #C9A96E 0%, #E8D5B0 50%, #C9A96E 100%)',
-        'dark-gradient': 'linear-gradient(180deg, #080808 0%, #111111 100%)',
+        'gold-gradient': 'linear-gradient(135deg, #7D9E6A 0%, #B2C9A0 50%, #7D9E6A 100%)',
+        'dark-gradient': 'linear-gradient(180deg, #0B0F08 0%, #101509 100%)',
       },
       animation: {
         'fade-in': 'fadeIn 0.5s ease-in-out',
