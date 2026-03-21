@@ -3,7 +3,7 @@ import Header from './components/Header';
 import SearchSection from './components/SearchSection';
 import FilterPanel from './components/FilterPanel';
 import HotelGrid from './components/HotelGrid';
-import { hotels } from './data/hotels';
+import hotelsData from './data/hotels-real.json';
 
 const DEFAULT_FILTERS = {
   brands: [],
@@ -17,6 +17,8 @@ export default function App() {
   const [dateRange, setDateRange] = useState({ from: undefined, to: undefined });
   const [filters, setFilters] = useState(DEFAULT_FILTERS);
   const [showMobileFilters, setShowMobileFilters] = useState(false);
+
+  const hotels = hotelsData;
 
   const filteredHotels = useMemo(() => {
     let result = hotels;
