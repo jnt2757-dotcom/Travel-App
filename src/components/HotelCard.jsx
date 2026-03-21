@@ -17,11 +17,23 @@ function StarRating({ rating }) {
   );
 }
 
-export default function HotelCard({ hotel, dateRange }) {
+export default function HotelCard({ hotel, dateRange, livePrice, isPricingLoading, nights }) {
   const bookingUrl = getBookingUrl(hotel, dateRange);
 
   // Show up to 4 distinctions on the card
   const topDistinctions = hotel.distinctions.slice(0, 4);
+
+  // Pricing resolution:
+  // - livePrice available  → show live per-night + optional total
+  // - isPricingLoading     → show shimmer skeleton
+  // - neither              → show static catalogue price
+  const hasDates = dateRange?.from && dateRange?.to;
+  const showLive = !!livePrice;
+  const showSkeleton = isPricingLoading && hasDates && !livePrice;
+  const displayPrice = livePrice?.pricePerNight ?? hotel.price;
+  const totalPrice = livePrice?.totalPrice ?? (hasDates && nights ? hotel.price * nights : null);
+  const currency = livePrice?.currency ?? 'USD';
+  const currencySymbol = currency === 'EUR' ? '€' : currency === 'GBP' ? '£' : '$';
 
   function handleBook(e) {
     e.preventDefault();
@@ -83,11 +95,40 @@ export default function HotelCard({ hotel, dateRange }) {
         {/* Price, Rating, Book */}
         <div className="flex items-end justify-between gap-4">
           <div>
-            <p className="text-[9px] tracking-[0.2em] uppercase text-cream-muted mb-0.5">From</p>
-            <p className="font-serif text-cream text-xl leading-none">
-              ${hotel.price.toLocaleString()}
-            </p>
-            <p className="text-cream-muted text-[10px] mt-0.5">per night</p>
+            {/* Live indicator */}
+            {showLive && (
+              <div className="flex items-center gap-1 mb-1">
+                <div className="w-1.5 h-1.5 rounded-full bg-gold animate-pulse" />
+                <span className="text-[8px] tracking-[0.2em] uppercase text-gold font-medium">
+                  Live · Booking.com
+                </span>
+              </div>
+            )}
+            {!showLive && !showSkeleton && (
+              <p className="text-[9px] tracking-[0.2em] uppercase text-cream-muted mb-0.5">From</p>
+            )}
+
+            {/* Price */}
+            {showSkeleton ? (
+              <div className="space-y-1">
+                <div className="skeleton h-6 w-20 rounded-sm" />
+                <div className="skeleton h-3 w-14 rounded-sm" />
+              </div>
+            ) : (
+              <>
+                <p className={`font-serif text-xl leading-none ${showLive ? 'text-cream' : 'text-cream'}`}>
+                  {currencySymbol}{displayPrice.toLocaleString()}
+                </p>
+                <p className="text-cream-muted text-[10px] mt-0.5">
+                  per night
+                  {totalPrice && nights && nights > 1 && (
+                    <span className="ml-1.5 text-gold">
+                      · {currencySymbol}{totalPrice.toLocaleString()} total
+                    </span>
+                  )}
+                </p>
+              </>
+            )}
           </div>
 
           <div className="flex flex-col items-end gap-1.5">

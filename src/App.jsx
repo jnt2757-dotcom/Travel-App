@@ -5,6 +5,7 @@ import FilterPanel from './components/FilterPanel';
 import HotelGrid from './components/HotelGrid';
 import hotelsRaw from './data/hotels-real.json';
 import { applyVerifiedAwards } from './data/awards';
+import { useLivePricing } from './hooks/useLivePricing';
 
 const hotelsData = applyVerifiedAwards(hotelsRaw);
 
@@ -22,6 +23,10 @@ export default function App() {
   const [showMobileFilters, setShowMobileFilters] = useState(false);
 
   const hotels = hotelsData;
+
+  // Live pricing from Booking.com — fires whenever dates change
+  const { priceMap, isLoading: isPricingLoading, error: pricingError, nights } =
+    useLivePricing(locationQuery, dateRange, hotels);
 
   const filteredHotels = useMemo(() => {
     let result = hotels;
@@ -110,7 +115,14 @@ export default function App() {
 
           {/* Hotel Grid */}
           <div className="flex-1 min-w-0">
-            <HotelGrid hotels={filteredHotels} dateRange={dateRange} />
+            <HotelGrid
+              hotels={filteredHotels}
+              dateRange={dateRange}
+              priceMap={priceMap}
+              isPricingLoading={isPricingLoading}
+              pricingError={pricingError}
+              nights={nights}
+            />
           </div>
         </div>
       </main>
