@@ -12,8 +12,8 @@
   }
 
   body {
-    background-color: #0D0A08;
-    color: #F2EDE0;
+    background-color: #EDE0C8;
+    color: #1C120A;
     font-family: 'Inter', system-ui, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -24,19 +24,19 @@
     height: 6px;
   }
   ::-webkit-scrollbar-track {
-    background: #141210;
+    background: #F5EAD8;
   }
   ::-webkit-scrollbar-thumb {
-    background: #483820;
+    background: #C4A888;
     border-radius: 3px;
   }
   ::-webkit-scrollbar-thumb:hover {
-    background: #C09A6A;
+    background: #8A5E1C;
   }
 
   ::selection {
-    background: #C09A6A33;
-    color: #F2EDE0;
+    background: #8A5E1C33;
+    color: #1C120A;
   }
 }
 
@@ -84,8 +84,8 @@
 /* React Day Picker Custom Styles */
 .rdp {
   --rdp-cell-size: 36px;
-  --rdp-accent-color: #C09A6A;
-  --rdp-background-color: #1B1714;
+  --rdp-accent-color: #8A5E1C;
+  --rdp-background-color: #F5EAD8;
   margin: 0;
   font-family: 'Inter', sans-serif;
   font-size: 13px;
@@ -97,7 +97,7 @@
 }
 
 .rdp-month {
-  background: #141210;
+  background: #FBF4EC;
 }
 
 .rdp-caption {
@@ -105,19 +105,19 @@
   align-items: center;
   justify-content: space-between;
   padding: 8px 8px 12px;
-  border-bottom: 1px solid #2E2318;
+  border-bottom: 1px solid #D4BFA8;
   margin-bottom: 8px;
 }
 
 .rdp-caption_label {
   font-family: 'Playfair Display', serif;
   font-size: 14px;
-  color: #F2EDE0;
+  color: #1C120A;
   font-weight: 400;
 }
 
 .rdp-nav_button {
-  color: #9A9080;
+  color: #7A6248;
   background: transparent;
   border: none;
   cursor: pointer;
@@ -128,11 +128,11 @@
 }
 
 .rdp-nav_button:hover {
-  color: #C09A6A;
+  color: #8A5E1C;
 }
 
 .rdp-head_cell {
-  color: #9A9080;
+  color: #7A6248;
   font-weight: 400;
   font-size: 11px;
   letter-spacing: 0.1em;
@@ -144,7 +144,7 @@
   width: var(--rdp-cell-size);
   height: var(--rdp-cell-size);
   border-radius: 2px;
-  color: #F2EDE0;
+  color: #1C120A;
   font-size: 13px;
   cursor: pointer;
   transition: all 0.15s;
@@ -153,34 +153,34 @@
 }
 
 .rdp-day:hover:not([disabled]):not(.rdp-day_selected) {
-  background: #2E2318;
-  color: #C09A6A;
+  background: #D4BFA8;
+  color: #8A5E1C;
 }
 
 .rdp-day_selected:not(.rdp-day_range_middle) {
-  background: #C09A6A !important;
-  color: #0D0A08 !important;
+  background: #8A5E1C !important;
+  color: #F5EAD8 !important;
   font-weight: 500;
 }
 
 .rdp-day_range_start,
 .rdp-day_range_end {
-  background: #C09A6A !important;
-  color: #0D0A08 !important;
+  background: #8A5E1C !important;
+  color: #F5EAD8 !important;
 }
 
 .rdp-day_range_middle {
-  background: #C09A6A22 !important;
-  color: #C09A6A !important;
+  background: #8A5E1C22 !important;
+  color: #8A5E1C !important;
   border-radius: 0;
 }
 
 .rdp-day_outside {
-  color: #483820;
+  color: #C4A888;
 }
 
 .rdp-day_disabled {
-  color: #483820;
+  color: #C4A888;
   cursor: not-allowed;
 }
 
@@ -189,7 +189,7 @@ input[type="range"] {
   -webkit-appearance: none;
   appearance: none;
   height: 2px;
-  background: #2E2318;
+  background: #D4BFA8;
   border-radius: 1px;
   outline: none;
 }
@@ -200,19 +200,19 @@ input[type="range"]::-webkit-slider-thumb {
   width: 16px;
   height: 16px;
   border-radius: 50%;
-  background: #C09A6A;
+  background: #8A5E1C;
   cursor: pointer;
-  border: 2px solid #0D0A08;
-  box-shadow: 0 0 0 1px #C09A6A;
+  border: 2px solid #F5EAD8;
+  box-shadow: 0 0 0 1px #8A5E1C;
 }
 
 input[type="range"]::-moz-range-thumb {
   width: 16px;
   height: 16px;
   border-radius: 50%;
-  background: #C09A6A;
+  background: #8A5E1C;
   cursor: pointer;
-  border: 2px solid #0D0A08;
+  border: 2px solid #F5EAD8;
 }
 
 /* Custom animations */
@@ -236,7 +236,7 @@ input[type="range"]::-moz-range-thumb {
 
 /* Image skeleton loader */
 .skeleton {
-  background: linear-gradient(90deg, #141210 25%, #1B1714 50%, #141210 75%);
+  background: linear-gradient(90deg, #E8D8C0 25%, #F5EAD8 50%, #E8D8C0 75%);
   background-size: 200% 100%;
   animation: shimmer 1.5s infinite;
 }

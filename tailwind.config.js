@@ -7,16 +7,19 @@ export default {
   theme: {
     extend: {
       colors: {
-        'gold': '#C09A6A',
-        'gold-light': '#DCBF90',
-        'gold-dark': '#8C6035',
-        'dark': '#0D0A08',
-        'dark-card': '#141210',
-        'dark-card-hover': '#1B1714',
-        'dark-border': '#2E2318',
-        'dark-border-hover': '#483820',
-        'cream': '#F2EDE0',
-        'cream-muted': '#9A9080',
+        // Gold — deeper bronze for strong contrast on tan backgrounds
+        'gold': '#8A5E1C',
+        'gold-light': '#A87828',
+        'gold-dark': '#5A3C10',
+        // Tan / parchment palette — warm luxury, not dark
+        'dark': '#EDE0C8',          // Main background: warm tan parchment
+        'dark-card': '#F5EAD8',     // Card surface: lighter parchment
+        'dark-card-hover': '#FBF4EC', // Hover: near-white parchment
+        'dark-border': '#D4BFA8',   // Borders: warm tan
+        'dark-border-hover': '#C4A888', // Border hover: deeper tan
+        // Text — espresso on parchment
+        'cream': '#1C120A',         // Main text: rich espresso
+        'cream-muted': '#7A6248',   // Muted text: warm brown
         'luxury-red': '#8B2A18',
       },
       fontFamily: {
@@ -24,8 +27,8 @@ export default {
         'sans': ['Inter', 'system-ui', 'sans-serif'],
       },
       backgroundImage: {
-        'gold-gradient': 'linear-gradient(135deg, #C09A6A 0%, #DCBF90 50%, #C09A6A 100%)',
-        'dark-gradient': 'linear-gradient(180deg, #0D0A08 0%, #141210 100%)',
+        'gold-gradient': 'linear-gradient(135deg, #8A5E1C 0%, #A87828 50%, #8A5E1C 100%)',
+        'dark-gradient': 'linear-gradient(180deg, #EDE0C8 0%, #F5EAD8 100%)',
       },
       animation: {
         'fade-in': 'fadeIn 0.5s ease-in-out',

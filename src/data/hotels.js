@@ -191,16 +191,16 @@ const DESTINATIONS = [
 
 // ─── Distinctions ─────────────────────────────────────────────────────────────
 export const DISTINCTIONS_META = {
-  'michelin-3-key': { label: '3 Michelin Keys', short: '⚿⚿⚿', color: 'text-gold border-gold/40 bg-gold/10', icon: '🗝️🗝️🗝️' },
-  'michelin-2-key': { label: '2 Michelin Keys', short: '⚿⚿', color: 'text-gold border-gold/30 bg-gold/8', icon: '🗝️🗝️' },
-  'michelin-1-key': { label: '1 Michelin Key', short: '⚿', color: 'text-gold-light border-gold/20 bg-gold/5', icon: '🗝️' },
-  'forbes-5-star': { label: 'Forbes 5-Star', short: 'Forbes ★★★★★', color: 'text-amber-300 border-amber-300/30 bg-amber-300/10', icon: '⭐' },
-  'top-50-global': { label: "World's 50 Best Hotels", short: 'Top 50 Global', color: 'text-blue-300 border-blue-300/30 bg-blue-300/10', icon: '🏆' },
-  'conde-nast-gold': { label: 'Condé Nast Gold List', short: 'CN Gold List', color: 'text-yellow-200 border-yellow-200/30 bg-yellow-200/10', icon: '⬥' },
-  'travel-leisure-top100': { label: 'T+L Top 100', short: 'T+L Top 100', color: 'text-green-300 border-green-300/30 bg-green-300/10', icon: '✦' },
-  'leading-hotels': { label: 'Leading Hotels of the World', short: 'LHW Member', color: 'text-purple-300 border-purple-300/30 bg-purple-300/10', icon: '◆' },
-  'relais-chateaux': { label: 'Relais & Châteaux', short: 'R&C', color: 'text-rose-300 border-rose-300/30 bg-rose-300/10', icon: '⬡' },
-  'small-luxury': { label: 'Small Luxury Hotels', short: 'SLH', color: 'text-teal-300 border-teal-300/30 bg-teal-300/10', icon: '◇' },
+  'michelin-3-key': { label: '3 Michelin Keys', short: '⚿⚿⚿', color: 'text-gold border-gold/50 bg-gold/10', icon: '🗝️🗝️🗝️' },
+  'michelin-2-key': { label: '2 Michelin Keys', short: '⚿⚿', color: 'text-gold border-gold/40 bg-gold/8', icon: '🗝️🗝️' },
+  'michelin-1-key': { label: '1 Michelin Key', short: '⚿', color: 'text-gold-light border-gold/30 bg-gold/5', icon: '🗝️' },
+  'forbes-5-star': { label: 'Forbes 5-Star', short: 'Forbes ★★★★★', color: 'text-amber-700 border-amber-700/30 bg-amber-700/10', icon: '⭐' },
+  'top-50-global': { label: "World's 50 Best Hotels", short: 'Top 50 Global', color: 'text-blue-800 border-blue-800/30 bg-blue-800/10', icon: '🏆' },
+  'conde-nast-gold': { label: 'Condé Nast Gold List', short: 'CN Gold List', color: 'text-yellow-800 border-yellow-800/30 bg-yellow-800/10', icon: '⬥' },
+  'travel-leisure-top100': { label: 'T+L Top 100', short: 'T+L Top 100', color: 'text-stone-600 border-stone-600/30 bg-stone-600/10', icon: '✦' },
+  'leading-hotels': { label: 'Leading Hotels of the World', short: 'LHW Member', color: 'text-purple-800 border-purple-800/30 bg-purple-800/10', icon: '◆' },
+  'relais-chateaux': { label: 'Relais & Châteaux', short: 'R&C', color: 'text-rose-800 border-rose-800/30 bg-rose-800/10', icon: '⬡' },
+  'small-luxury': { label: 'Small Luxury Hotels', short: 'SLH', color: 'text-slate-600 border-slate-600/30 bg-slate-600/10', icon: '◇' },
 };
 
 function generateDistinctions(brand, dest, rand) {

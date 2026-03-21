@@ -75,12 +75,12 @@ export default function SearchSection({ locationQuery, onLocationChange, dateRan
             895 Curated Properties
           </p>
           <h1 className="font-serif text-cream text-3xl sm:text-4xl md:text-5xl font-normal leading-tight mb-4">
-            Where Nature Meets
+            The World's Most
             <br />
-            <em className="text-gold">Extraordinary Luxury</em>
+            <em className="text-gold">Extraordinary Stays</em>
           </h1>
           <p className="text-cream-muted text-sm font-light max-w-xl mx-auto">
-            Discover and book extraordinary stays at the world's most prestigious hotels and resorts.
+            895 hand-selected properties — Michelin-recognized, Forbes-rated, and globally acclaimed.
           </p>
         </div>
 
