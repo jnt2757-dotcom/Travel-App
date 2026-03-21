@@ -3,7 +3,10 @@ import Header from './components/Header';
 import SearchSection from './components/SearchSection';
 import FilterPanel from './components/FilterPanel';
 import HotelGrid from './components/HotelGrid';
-import hotelsData from './data/hotels-real.json';
+import hotelsRaw from './data/hotels-real.json';
+import { applyVerifiedAwards } from './data/awards';
+
+const hotelsData = applyVerifiedAwards(hotelsRaw);
 
 const DEFAULT_FILTERS = {
   brands: [],
