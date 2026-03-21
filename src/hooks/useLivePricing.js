@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { format } from 'date-fns';
-import { searchDestination, searchHotelsWithPricing } from '../services/bookingApi';
+import { searchDestination, searchHotelsWithPricing, getRoomAvailability } from '../services/bookingApi';
 
 /**
  * Normalise a hotel name for fuzzy matching:
@@ -119,19 +119,58 @@ export function useLivePricing(locationQuery, dateRange, allHotels) {
           return;
         }
 
-        // Step 2: search hotels with pricing
+        // Step 2: search hotels with bulk pricing
+        // Use search_type from the destination result (more accurate than dest_type)
         const results = await searchHotelsWithPricing({
           destId: dest.dest_id,
-          destType: dest.dest_type,
+          destType: dest.search_type ?? dest.dest_type,
           checkIn,
           checkOut,
         });
 
         if (guard.cancelled) return;
 
-        // Step 3: match to our hotel list
-        const map = buildPriceMap(allHotels, results);
-        setPriceMap(map);
+        // Step 3: match Booking.com results to our hotel catalogue by name
+        const initialMap = buildPriceMap(allHotels, results);
+
+        // Publish initial prices immediately so cards update without waiting for step 4
+        if (!guard.cancelled) setPriceMap({ ...initialMap });
+
+        // Step 4: refine top-confidence matches using getRoomAvailability.
+        // This gives exact per-room pricing for the selected dates.
+        const topMatches = Object.entries(initialMap)
+          .filter(([, data]) => data._score >= 0.7 && data.bookingId)
+          .slice(0, 5);
+
+        if (topMatches.length > 0 && !guard.cancelled) {
+          const roomResults = await Promise.allSettled(
+            topMatches.map(([ourHotelId, data]) =>
+              getRoomAvailability({ hotelId: data.bookingId, checkIn, checkOut })
+                .then((room) => (room ? { ourHotelId, room } : null))
+                .catch(() => null)
+            )
+          );
+
+          if (guard.cancelled) return;
+
+          // Merge refined room prices over the initial search prices
+          const refinedMap = { ...initialMap };
+          for (const result of roomResults) {
+            if (result.status === 'fulfilled' && result.value) {
+              const { ourHotelId, room } = result.value;
+              refinedMap[ourHotelId] = {
+                ...refinedMap[ourHotelId],
+                pricePerNight: room.pricePerNight,
+                totalPrice: room.totalPrice,
+                currency: room.currency,
+                nights: room.nights,
+                roomName: room.roomName,
+              };
+            }
+          }
+
+          if (!guard.cancelled) setPriceMap(refinedMap);
+        }
       } catch (err) {
         if (guard.cancelled) return;
         console.error('[useLivePricing]', err);
