@@ -8,7 +8,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "city",
-    "price": 1800,
+    "price": 2300,
     "rating": 4.8,
     "reviewCount": 7226,
     "distinctions": [
@@ -50,7 +50,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "city",
-    "price": 2350,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 4421,
     "distinctions": [
@@ -92,7 +92,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 2150,
     "rating": 4.7,
     "reviewCount": 3374,
     "distinctions": [
@@ -134,7 +134,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1200,
     "rating": 4.8,
     "reviewCount": 1237,
     "distinctions": [
@@ -176,7 +176,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 771,
     "distinctions": [
@@ -218,7 +218,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 950,
     "rating": 4.7,
     "reviewCount": 1307,
     "distinctions": [
@@ -260,7 +260,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 3865,
     "distinctions": [
@@ -302,7 +302,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 2250,
     "rating": 4.6,
     "reviewCount": 2508,
     "distinctions": [
@@ -344,7 +344,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 2350,
     "rating": 4.6,
     "reviewCount": 7698,
     "distinctions": [
@@ -386,7 +386,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 3950,
     "rating": 4.7,
     "reviewCount": 1889,
     "distinctions": [
@@ -428,7 +428,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 3050,
     "rating": 4.7,
     "reviewCount": 3514,
     "distinctions": [
@@ -470,7 +470,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1250,
     "rating": 4.7,
     "reviewCount": 10877,
     "distinctions": [
@@ -512,7 +512,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 2350,
+    "price": 950,
     "rating": 4.7,
     "reviewCount": 2688,
     "distinctions": [
@@ -554,7 +554,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 850,
     "rating": 4.4,
     "reviewCount": 4390,
     "distinctions": [
@@ -595,7 +595,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1050,
     "rating": 4.4,
     "reviewCount": 3178,
     "distinctions": [
@@ -636,7 +636,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1850,
     "rating": 4.7,
     "reviewCount": 4182,
     "distinctions": [
@@ -678,7 +678,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 900,
     "rating": 4.7,
     "reviewCount": 1508,
     "distinctions": [
@@ -720,7 +720,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 2550,
     "rating": 4.7,
     "reviewCount": 3704,
     "distinctions": [
@@ -762,7 +762,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 4000,
     "rating": 4.7,
     "reviewCount": 1655,
     "distinctions": [
@@ -804,7 +804,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 2100,
     "rating": 4.6,
     "reviewCount": 2818,
     "distinctions": [
@@ -846,7 +846,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 550,
     "rating": 4.6,
     "reviewCount": 5499,
     "distinctions": [
@@ -930,7 +930,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1400,
     "rating": 4.8,
     "reviewCount": 1135,
     "distinctions": [
@@ -972,7 +972,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 2000,
     "rating": 4.7,
     "reviewCount": 2554,
     "distinctions": [
@@ -1014,7 +1014,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 950,
     "rating": 4.7,
     "reviewCount": 1007,
     "distinctions": [
@@ -1056,7 +1056,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1350,
     "rating": 4.6,
     "reviewCount": 1827,
     "distinctions": [
@@ -1098,7 +1098,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1100,
     "rating": 4.6,
     "reviewCount": 393,
     "distinctions": [
@@ -1140,7 +1140,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1300,
     "rating": 4.8,
     "reviewCount": 723,
     "distinctions": [
@@ -1182,7 +1182,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1350,
     "rating": 4.7,
     "reviewCount": 401,
     "distinctions": [
@@ -1224,7 +1224,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1400,
     "rating": 4.7,
     "reviewCount": 785,
     "distinctions": [
@@ -1266,7 +1266,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1400,
     "rating": 4.4,
     "reviewCount": 2372,
     "distinctions": [
@@ -1307,7 +1307,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1550,
     "rating": 4.4,
     "reviewCount": 669,
     "distinctions": [
@@ -1348,7 +1348,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1750,
     "rating": 4.5,
     "reviewCount": 1559,
     "distinctions": [
@@ -1389,7 +1389,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 750,
     "rating": 4.8,
     "reviewCount": 227,
     "distinctions": [
@@ -1430,7 +1430,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 800,
     "rating": 4.6,
     "reviewCount": 1311,
     "distinctions": [
@@ -1472,7 +1472,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 650,
     "rating": 4.9,
     "reviewCount": 157,
     "distinctions": [
@@ -1513,7 +1513,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 5050,
     "rating": 4.8,
     "reviewCount": 809,
     "distinctions": [
@@ -1555,7 +1555,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 2100,
     "rating": 4.7,
     "reviewCount": 824,
     "distinctions": [
@@ -1597,7 +1597,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 2275,
     "distinctions": [
@@ -1638,7 +1638,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1050,
     "rating": 4.8,
     "reviewCount": 361,
     "distinctions": [
@@ -1680,7 +1680,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1400,
     "rating": 4.4,
     "reviewCount": 4593,
     "distinctions": [
@@ -1721,7 +1721,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 1800,
+    "price": 2400,
     "rating": 4.8,
     "reviewCount": 2739,
     "distinctions": [
@@ -1763,7 +1763,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 900,
     "rating": 4.8,
     "reviewCount": 1138,
     "distinctions": [
@@ -1805,7 +1805,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 559,
     "distinctions": [
@@ -1847,7 +1847,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1150,
     "rating": 4.8,
     "reviewCount": 37,
     "distinctions": [
@@ -1888,7 +1888,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 700,
     "rating": 4.7,
     "reviewCount": 1838,
     "distinctions": [
@@ -1930,7 +1930,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1100,
     "rating": 4.7,
     "reviewCount": 2381,
     "distinctions": [
@@ -1972,7 +1972,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1300,
     "rating": 4.7,
     "reviewCount": 2831,
     "distinctions": [
@@ -2014,7 +2014,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 1150,
+    "price": 2400,
     "rating": 4.6,
     "reviewCount": 1742,
     "distinctions": [
@@ -2056,7 +2056,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 550,
     "rating": 4.7,
     "reviewCount": 1340,
     "distinctions": [
@@ -2098,7 +2098,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1200,
     "rating": 4.6,
     "reviewCount": 1622,
     "distinctions": [
@@ -2140,7 +2140,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1100,
     "rating": 4.7,
     "reviewCount": 1817,
     "distinctions": [
@@ -2182,7 +2182,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1300,
     "rating": 4.7,
     "reviewCount": 2036,
     "distinctions": [
@@ -2224,7 +2224,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1650,
     "rating": 4.7,
     "reviewCount": 2784,
     "distinctions": [
@@ -2266,7 +2266,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1900,
     "rating": 4.4,
     "reviewCount": 2914,
     "distinctions": [
@@ -2307,7 +2307,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 2050,
     "rating": 4.7,
     "reviewCount": 1055,
     "distinctions": [
@@ -2349,7 +2349,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 900,
     "rating": 4.4,
     "reviewCount": 4739,
     "distinctions": [
@@ -2390,7 +2390,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 550,
     "rating": 4.5,
     "reviewCount": 1402,
     "distinctions": [
@@ -2431,7 +2431,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1950,
     "rating": 4.6,
     "reviewCount": 4686,
     "distinctions": [
@@ -2473,7 +2473,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1350,
     "rating": 4.7,
     "reviewCount": 4306,
     "distinctions": [
@@ -2515,7 +2515,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1600,
     "rating": 4.5,
     "reviewCount": 1102,
     "distinctions": [
@@ -2556,7 +2556,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 750,
     "rating": 4.6,
     "reviewCount": 3508,
     "distinctions": [
@@ -2598,7 +2598,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1900,
     "rating": 4.7,
     "reviewCount": 2495,
     "distinctions": [
@@ -2640,7 +2640,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 700,
     "rating": 4.5,
     "reviewCount": 2903,
     "distinctions": [
@@ -2681,7 +2681,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1850,
     "rating": 4.7,
     "reviewCount": 1307,
     "distinctions": [
@@ -2723,7 +2723,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1850,
     "rating": 4.6,
     "reviewCount": 1297,
     "distinctions": [
@@ -2765,7 +2765,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1450,
     "rating": 4.6,
     "reviewCount": 4559,
     "distinctions": [
@@ -2807,7 +2807,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1050,
     "rating": 4.8,
     "reviewCount": 796,
     "distinctions": [
@@ -2849,7 +2849,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 900,
     "rating": 4.5,
     "reviewCount": 1237,
     "distinctions": [
@@ -2890,7 +2890,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1150,
     "rating": 4.6,
     "reviewCount": 420,
     "distinctions": [
@@ -2932,7 +2932,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 950,
     "rating": 4.7,
     "reviewCount": 3991,
     "distinctions": [
@@ -2974,7 +2974,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1750,
     "rating": 4.6,
     "reviewCount": 5474,
     "distinctions": [
@@ -3016,7 +3016,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 650,
     "rating": 4.5,
     "reviewCount": 4603,
     "distinctions": [
@@ -3057,7 +3057,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 800,
     "rating": 4.4,
     "reviewCount": 3987,
     "distinctions": [
@@ -3098,7 +3098,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 650,
     "rating": 4.4,
     "reviewCount": 1815,
     "distinctions": [
@@ -3139,7 +3139,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1800,
     "rating": 4.7,
     "reviewCount": 3505,
     "distinctions": [
@@ -3181,7 +3181,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1800,
     "rating": 4.8,
     "reviewCount": 1125,
     "distinctions": [
@@ -3223,7 +3223,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1550,
     "rating": 4.8,
     "reviewCount": 1042,
     "distinctions": [
@@ -3265,7 +3265,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 600,
     "rating": 4.6,
     "reviewCount": 2442,
     "distinctions": [
@@ -3307,7 +3307,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 450,
     "rating": 4.7,
     "reviewCount": 587,
     "distinctions": [
@@ -3349,7 +3349,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1400,
     "rating": 4.6,
     "reviewCount": 2874,
     "distinctions": [
@@ -3391,7 +3391,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 400,
     "rating": 4.8,
     "reviewCount": 1008,
     "distinctions": [
@@ -3433,7 +3433,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1450,
     "rating": 4.7,
     "reviewCount": 474,
     "distinctions": [
@@ -3475,7 +3475,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 900,
     "rating": 4.7,
     "reviewCount": 3615,
     "distinctions": [
@@ -3517,7 +3517,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1500,
     "rating": 4.9,
     "reviewCount": 144,
     "distinctions": [
@@ -3558,7 +3558,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 900,
     "rating": 4.6,
     "reviewCount": 604,
     "distinctions": [
@@ -3600,7 +3600,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1500,
     "rating": 4.7,
     "reviewCount": 1801,
     "distinctions": [
@@ -3642,7 +3642,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 800,
     "rating": 4.6,
     "reviewCount": 2540,
     "distinctions": [
@@ -3684,7 +3684,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 750,
     "rating": 4.6,
     "reviewCount": 1880,
     "distinctions": [
@@ -3726,7 +3726,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1000,
     "rating": 4.7,
     "reviewCount": 2746,
     "distinctions": [
@@ -3768,7 +3768,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1400,
     "rating": 4.7,
     "reviewCount": 1235,
     "distinctions": [
@@ -3810,7 +3810,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1000,
     "rating": 4.7,
     "reviewCount": 473,
     "distinctions": [
@@ -3852,7 +3852,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1850,
     "rating": 4.9,
     "reviewCount": 215,
     "distinctions": [
@@ -3893,7 +3893,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1650,
     "rating": 4.8,
     "reviewCount": 1196,
     "distinctions": [
@@ -3935,7 +3935,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 800,
     "rating": 4.5,
     "reviewCount": 13685,
     "distinctions": [
@@ -3976,7 +3976,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1550,
     "rating": 4.6,
     "reviewCount": 1931,
     "distinctions": [
@@ -4018,7 +4018,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1200,
     "rating": 4.6,
     "reviewCount": 1833,
     "distinctions": [
@@ -4060,7 +4060,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 450,
+    "price": 800,
     "rating": 4.3,
     "reviewCount": 4127,
     "distinctions": [
@@ -4100,7 +4100,7 @@
     "country": "Czech Republic",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1200,
     "rating": 4.7,
     "reviewCount": 1894,
     "distinctions": [
@@ -4142,7 +4142,7 @@
     "country": "Czech Republic",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1950,
     "rating": 4.8,
     "reviewCount": 876,
     "distinctions": [
@@ -4184,7 +4184,7 @@
     "country": "Czech Republic",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1500,
     "rating": 4.7,
     "reviewCount": 626,
     "distinctions": [
@@ -4226,7 +4226,7 @@
     "country": "Czech Republic",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 900,
     "rating": 4.7,
     "reviewCount": 2174,
     "distinctions": [
@@ -4268,7 +4268,7 @@
     "country": "Czech Republic",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1850,
     "rating": 4.7,
     "reviewCount": 858,
     "distinctions": [
@@ -4310,7 +4310,7 @@
     "country": "Czech Republic",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 900,
     "rating": 4.6,
     "reviewCount": 668,
     "distinctions": [
@@ -4352,7 +4352,7 @@
     "country": "Czech Republic",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 900,
     "rating": 4.8,
     "reviewCount": 475,
     "distinctions": [
@@ -4394,7 +4394,7 @@
     "country": "Czech Republic",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 700,
     "rating": 4.8,
     "reviewCount": 528,
     "distinctions": [
@@ -4436,7 +4436,7 @@
     "country": "Netherlands",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1400,
     "rating": 4.8,
     "reviewCount": 1522,
     "distinctions": [
@@ -4478,7 +4478,7 @@
     "country": "Netherlands",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1850,
     "rating": 4.5,
     "reviewCount": 1748,
     "distinctions": [
@@ -4519,7 +4519,7 @@
     "country": "Netherlands",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 850,
     "rating": 4.7,
     "reviewCount": 2756,
     "distinctions": [
@@ -4561,7 +4561,7 @@
     "country": "Netherlands",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1550,
     "rating": 4.8,
     "reviewCount": 626,
     "distinctions": [
@@ -4603,7 +4603,7 @@
     "country": "Netherlands",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 550,
     "rating": 4.8,
     "reviewCount": 404,
     "distinctions": [
@@ -4645,7 +4645,7 @@
     "country": "Netherlands",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1250,
     "rating": 4.7,
     "reviewCount": 1537,
     "distinctions": [
@@ -4687,7 +4687,7 @@
     "country": "Netherlands",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 600,
     "rating": 4.6,
     "reviewCount": 6531,
     "distinctions": [
@@ -4729,7 +4729,7 @@
     "country": "Netherlands",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 550,
     "rating": 4.6,
     "reviewCount": 1752,
     "distinctions": [
@@ -4771,7 +4771,7 @@
     "country": "Netherlands",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1200,
     "rating": 4.6,
     "reviewCount": 3710,
     "distinctions": [
@@ -4813,7 +4813,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1850,
     "rating": 4.7,
     "reviewCount": 3911,
     "distinctions": [
@@ -4855,7 +4855,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1850,
     "rating": 4.4,
     "reviewCount": 1877,
     "distinctions": [
@@ -4896,7 +4896,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1650,
     "rating": 4.6,
     "reviewCount": 1832,
     "distinctions": [
@@ -4938,7 +4938,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 2350,
     "rating": 4.6,
     "reviewCount": 2978,
     "distinctions": [
@@ -4980,7 +4980,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 800,
     "rating": 4.5,
     "reviewCount": 625,
     "distinctions": [
@@ -5021,7 +5021,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 2173,
     "distinctions": [
@@ -5062,7 +5062,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1300,
     "rating": 4.7,
     "reviewCount": 976,
     "distinctions": [
@@ -5104,7 +5104,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 2700,
     "rating": 4.6,
     "reviewCount": 496,
     "distinctions": [
@@ -5146,7 +5146,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1350,
     "rating": 4.4,
     "reviewCount": 392,
     "distinctions": [
@@ -5187,7 +5187,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 450,
+    "price": 1900,
     "rating": 4.3,
     "reviewCount": 1973,
     "distinctions": [
@@ -5227,7 +5227,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 1600,
     "distinctions": [
@@ -5269,7 +5269,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 450,
+    "price": 1400,
     "rating": 4.3,
     "reviewCount": 458,
     "distinctions": [
@@ -5309,7 +5309,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1400,
     "rating": 4.7,
     "reviewCount": 2896,
     "distinctions": [
@@ -5351,7 +5351,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1250,
     "rating": 4.7,
     "reviewCount": 885,
     "distinctions": [
@@ -5393,7 +5393,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 2150,
     "rating": 4.7,
     "reviewCount": 1361,
     "distinctions": [
@@ -5435,7 +5435,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 2450,
     "rating": 4.6,
     "reviewCount": 236,
     "distinctions": [
@@ -5477,7 +5477,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1400,
     "rating": 4.6,
     "reviewCount": 1380,
     "distinctions": [
@@ -5519,7 +5519,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 550,
     "rating": 4.5,
     "reviewCount": 2014,
     "distinctions": [
@@ -5560,7 +5560,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 2150,
     "rating": 4.7,
     "reviewCount": 2135,
     "distinctions": [
@@ -5602,7 +5602,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1200,
     "rating": 4.5,
     "reviewCount": 4752,
     "distinctions": [
@@ -5643,7 +5643,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 1890,
     "distinctions": [
@@ -5685,7 +5685,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 700,
     "rating": 4.6,
     "reviewCount": 1230,
     "distinctions": [
@@ -5727,7 +5727,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 2700,
     "rating": 4.6,
     "reviewCount": 3350,
     "distinctions": [
@@ -5769,7 +5769,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 2000,
     "rating": 4.8,
     "reviewCount": 531,
     "distinctions": [
@@ -5811,7 +5811,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 2500,
     "rating": 4.7,
     "reviewCount": 504,
     "distinctions": [
@@ -5853,7 +5853,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 2350,
+    "price": 2150,
     "rating": 4.7,
     "reviewCount": 1333,
     "distinctions": [
@@ -5895,7 +5895,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 2250,
     "rating": 4.6,
     "reviewCount": 1533,
     "distinctions": [
@@ -5937,7 +5937,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1300,
     "rating": 4.4,
     "reviewCount": 2432,
     "distinctions": [
@@ -5978,7 +5978,7 @@
     "country": "Monaco",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1900,
     "rating": 4.4,
     "reviewCount": 1696,
     "distinctions": [
@@ -6019,7 +6019,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 2500,
     "rating": 4.9,
     "reviewCount": 562,
     "distinctions": [
@@ -6061,7 +6061,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 2250,
     "rating": 4.7,
     "reviewCount": 773,
     "distinctions": [
@@ -6145,7 +6145,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 1650,
     "rating": 4.9,
     "reviewCount": 128,
     "distinctions": [
@@ -6186,7 +6186,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 1600,
     "rating": 4.8,
     "reviewCount": 636,
     "distinctions": [
@@ -6228,7 +6228,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 2150,
     "rating": 4.8,
     "reviewCount": 599,
     "distinctions": [
@@ -6270,7 +6270,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 850,
     "rating": 4.9,
     "reviewCount": 269,
     "distinctions": [
@@ -6311,7 +6311,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 1550,
     "rating": 4.8,
     "reviewCount": 160,
     "distinctions": [
@@ -6352,7 +6352,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 1200,
     "rating": 4.8,
     "reviewCount": 655,
     "distinctions": [
@@ -6394,7 +6394,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 1900,
     "rating": 4.7,
     "reviewCount": 442,
     "distinctions": [
@@ -6436,7 +6436,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 2300,
     "rating": 4.7,
     "reviewCount": 401,
     "distinctions": [
@@ -6478,7 +6478,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 800,
     "rating": 4.7,
     "reviewCount": 656,
     "distinctions": [
@@ -6520,7 +6520,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 800,
     "rating": 4.9,
     "reviewCount": 398,
     "distinctions": [
@@ -6562,7 +6562,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 950,
     "rating": 4.8,
     "reviewCount": 333,
     "distinctions": [
@@ -6604,7 +6604,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 800,
     "rating": 4.8,
     "reviewCount": 829,
     "distinctions": [
@@ -6646,7 +6646,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 1200,
     "rating": 4.8,
     "reviewCount": 433,
     "distinctions": [
@@ -6688,7 +6688,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 1550,
     "rating": 4.8,
     "reviewCount": 393,
     "distinctions": [
@@ -6730,7 +6730,7 @@
     "country": "Greece",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1750,
     "rating": 4.7,
     "reviewCount": 1062,
     "distinctions": [
@@ -6772,7 +6772,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 750,
+    "price": 2150,
     "rating": 4.7,
     "reviewCount": 2432,
     "distinctions": [
@@ -6814,7 +6814,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 650,
+    "price": 2150,
     "rating": 4.8,
     "reviewCount": 1277,
     "distinctions": [
@@ -6856,7 +6856,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 500,
+    "price": 2100,
     "rating": 4.6,
     "reviewCount": 545,
     "distinctions": [
@@ -6898,7 +6898,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1150,
     "rating": 4.8,
     "reviewCount": 330,
     "distinctions": [
@@ -6940,7 +6940,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1850,
     "rating": 4.7,
     "reviewCount": 3271,
     "distinctions": [
@@ -6982,7 +6982,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 600,
+    "price": 1900,
     "rating": 4.5,
     "reviewCount": 4471,
     "distinctions": [
@@ -7023,7 +7023,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 750,
+    "price": 950,
     "rating": 4.7,
     "reviewCount": 2065,
     "distinctions": [
@@ -7065,7 +7065,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1350,
     "rating": 4.9,
     "reviewCount": 35,
     "distinctions": [
@@ -7106,7 +7106,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 750,
+    "price": 2100,
     "rating": 4.7,
     "reviewCount": 2695,
     "distinctions": [
@@ -7148,7 +7148,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 600,
+    "price": 1700,
     "rating": 4.5,
     "reviewCount": 736,
     "distinctions": [
@@ -7189,7 +7189,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 750,
+    "price": 2200,
     "rating": 4.7,
     "reviewCount": 635,
     "distinctions": [
@@ -7231,7 +7231,7 @@
     "country": "Croatia",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 1791,
     "distinctions": [
@@ -7273,7 +7273,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1950,
     "rating": 4.7,
     "reviewCount": 868,
     "distinctions": [
@@ -7315,7 +7315,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1550,
     "rating": 4.8,
     "reviewCount": 519,
     "distinctions": [
@@ -7357,7 +7357,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 1000,
     "rating": 4.8,
     "reviewCount": 595,
     "distinctions": [
@@ -7399,7 +7399,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 1350,
     "rating": 4.6,
     "reviewCount": 653,
     "distinctions": [
@@ -7441,7 +7441,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 330,
     "distinctions": [
@@ -7483,7 +7483,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 161,
     "distinctions": [
@@ -7524,7 +7524,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 1250,
     "rating": 4.8,
     "reviewCount": 50,
     "distinctions": [
@@ -7565,7 +7565,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 1800,
     "rating": 4.8,
     "reviewCount": 232,
     "distinctions": [
@@ -7606,7 +7606,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 184,
     "distinctions": [
@@ -7647,7 +7647,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "lake",
-    "price": 750,
+    "price": 1400,
     "rating": 4.7,
     "reviewCount": 1822,
     "distinctions": [
@@ -7689,7 +7689,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "lake",
-    "price": 750,
+    "price": 1100,
     "rating": 4.7,
     "reviewCount": 3057,
     "distinctions": [
@@ -7731,7 +7731,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "lake",
-    "price": 650,
+    "price": 800,
     "rating": 4.8,
     "reviewCount": 497,
     "distinctions": [
@@ -7773,7 +7773,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "lake",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 1164,
     "distinctions": [
@@ -7815,7 +7815,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 750,
+    "price": 2350,
     "rating": 4.7,
     "reviewCount": 567,
     "distinctions": [
@@ -7857,7 +7857,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 650,
+    "price": 750,
     "rating": 4.8,
     "reviewCount": 483,
     "distinctions": [
@@ -7899,7 +7899,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 650,
+    "price": 1250,
     "rating": 4.8,
     "reviewCount": 1309,
     "distinctions": [
@@ -7940,7 +7940,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 650,
+    "price": 1700,
     "rating": 4.8,
     "reviewCount": 573,
     "distinctions": [
@@ -7981,7 +7981,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 1800,
+    "price": 2500,
     "rating": 4.8,
     "reviewCount": 2739,
     "distinctions": [
@@ -8023,7 +8023,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 700,
+    "price": 1100,
     "rating": 4.4,
     "reviewCount": 1645,
     "distinctions": [
@@ -8063,7 +8063,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 650,
+    "price": 1900,
     "rating": 4.8,
     "reviewCount": 252,
     "distinctions": [
@@ -8103,7 +8103,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 550,
     "distinctions": [
@@ -8144,7 +8144,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 650,
+    "price": 1000,
     "rating": 4.8,
     "reviewCount": 303,
     "distinctions": [
@@ -8185,7 +8185,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 450,
+    "price": 400,
     "rating": 4.3,
     "reviewCount": 494,
     "distinctions": [
@@ -8224,7 +8224,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 650,
+    "price": 850,
     "rating": 4.8,
     "reviewCount": 440,
     "distinctions": [
@@ -8266,7 +8266,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "countryside",
-    "price": 700,
+    "price": 1100,
     "rating": 4.4,
     "reviewCount": 461,
     "distinctions": [
@@ -8306,7 +8306,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 1150,
+    "price": 2500,
     "rating": 4.6,
     "reviewCount": 469,
     "distinctions": [
@@ -8348,7 +8348,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1500,
     "rating": 4.6,
     "reviewCount": 810,
     "distinctions": [
@@ -8390,7 +8390,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 2350,
+    "price": 800,
     "rating": 4.7,
     "reviewCount": 1333,
     "distinctions": [
@@ -8432,7 +8432,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 650,
+    "price": 600,
     "rating": 4.8,
     "reviewCount": 531,
     "distinctions": [
@@ -8474,7 +8474,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 1150,
+    "price": 1650,
     "rating": 4.6,
     "reviewCount": 1151,
     "distinctions": [
@@ -8516,7 +8516,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 500,
     "rating": 4.8,
     "reviewCount": 425,
     "distinctions": [
@@ -8558,7 +8558,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1750,
     "rating": 4.8,
     "reviewCount": 612,
     "distinctions": [
@@ -8600,7 +8600,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1300,
     "rating": 4.7,
     "reviewCount": 677,
     "distinctions": [
@@ -8642,7 +8642,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 950,
     "rating": 4.6,
     "reviewCount": 1283,
     "distinctions": [
@@ -8684,7 +8684,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 1817,
     "distinctions": [
@@ -8726,7 +8726,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1350,
     "rating": 4.7,
     "reviewCount": 3378,
     "distinctions": [
@@ -8768,7 +8768,7 @@
     "country": "Portugal",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1600,
     "rating": 4.8,
     "reviewCount": 509,
     "distinctions": [
@@ -8810,7 +8810,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 450,
     "rating": 4.7,
     "reviewCount": 3178,
     "distinctions": [
@@ -8852,7 +8852,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 3029,
     "distinctions": [
@@ -8893,7 +8893,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 462,
     "distinctions": [
@@ -8935,7 +8935,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1100,
     "rating": 4.9,
     "reviewCount": 88,
     "distinctions": [
@@ -8976,7 +8976,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1250,
     "rating": 4.7,
     "reviewCount": 1674,
     "distinctions": [
@@ -9018,7 +9018,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 450,
+    "price": 500,
     "rating": 4.3,
     "reviewCount": 869,
     "distinctions": [
@@ -9058,7 +9058,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 500,
     "rating": 4.5,
     "reviewCount": 2147,
     "distinctions": [
@@ -9099,7 +9099,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1350,
     "rating": 4.6,
     "reviewCount": 1796,
     "distinctions": [
@@ -9141,7 +9141,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 650,
     "rating": 4.7,
     "reviewCount": 654,
     "distinctions": [
@@ -9183,7 +9183,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1100,
     "rating": 4.6,
     "reviewCount": 927,
     "distinctions": [
@@ -9225,7 +9225,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 850,
     "rating": 4.4,
     "reviewCount": 653,
     "distinctions": [
@@ -9266,7 +9266,7 @@
     "country": "United Kingdom",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 650,
     "rating": 4.6,
     "reviewCount": 883,
     "distinctions": [
@@ -9308,7 +9308,7 @@
     "country": "Hungary",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 2700,
     "rating": 4.8,
     "reviewCount": 4216,
     "distinctions": [
@@ -9350,7 +9350,7 @@
     "country": "Hungary",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1500,
     "rating": 4.7,
     "reviewCount": 6163,
     "distinctions": [
@@ -9392,7 +9392,7 @@
     "country": "Hungary",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1400,
     "rating": 4.7,
     "reviewCount": 4010,
     "distinctions": [
@@ -9434,7 +9434,7 @@
     "country": "Hungary",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 700,
     "rating": 4.7,
     "reviewCount": 2105,
     "distinctions": [
@@ -9476,7 +9476,7 @@
     "country": "Hungary",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1800,
     "rating": 4.8,
     "reviewCount": 1092,
     "distinctions": [
@@ -9518,7 +9518,7 @@
     "country": "Hungary",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1500,
     "rating": 4.7,
     "reviewCount": 6602,
     "distinctions": [
@@ -9560,7 +9560,7 @@
     "country": "Hungary",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 850,
     "rating": 4.8,
     "reviewCount": 1092,
     "distinctions": [
@@ -9602,7 +9602,7 @@
     "country": "Hungary",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1000,
     "rating": 4.8,
     "reviewCount": 3630,
     "distinctions": [
@@ -9644,7 +9644,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1900,
     "rating": 4.7,
     "reviewCount": 1882,
     "distinctions": [
@@ -9686,7 +9686,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 700,
     "rating": 4.7,
     "reviewCount": 1377,
     "distinctions": [
@@ -9728,7 +9728,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1750,
     "rating": 4.4,
     "reviewCount": 2015,
     "distinctions": [
@@ -9769,7 +9769,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1050,
     "rating": 4.4,
     "reviewCount": 1498,
     "distinctions": [
@@ -9810,7 +9810,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1700,
     "rating": 4.4,
     "reviewCount": 1479,
     "distinctions": [
@@ -9851,7 +9851,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1300,
     "rating": 4.7,
     "reviewCount": 124,
     "distinctions": [
@@ -9892,7 +9892,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 600,
     "rating": 4.7,
     "reviewCount": 1766,
     "distinctions": [
@@ -9934,7 +9934,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1150,
     "rating": 4.4,
     "reviewCount": 3458,
     "distinctions": [
@@ -9975,7 +9975,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 450,
+    "price": 650,
     "rating": 4.3,
     "reviewCount": 8561,
     "distinctions": [
@@ -10015,7 +10015,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1750,
     "rating": 4.5,
     "reviewCount": 435,
     "distinctions": [
@@ -10056,7 +10056,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 450,
+    "price": 500,
     "rating": 4.3,
     "reviewCount": 6324,
     "distinctions": [
@@ -10096,7 +10096,7 @@
     "country": "Denmark",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1700,
     "rating": 4.7,
     "reviewCount": 1402,
     "distinctions": [
@@ -10138,7 +10138,7 @@
     "country": "Sweden",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1700,
     "rating": 4.6,
     "reviewCount": 4226,
     "distinctions": [
@@ -10180,7 +10180,7 @@
     "country": "Sweden",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1450,
     "rating": 4.4,
     "reviewCount": 2456,
     "distinctions": [
@@ -10221,7 +10221,7 @@
     "country": "Sweden",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1800,
     "rating": 4.7,
     "reviewCount": 430,
     "distinctions": [
@@ -10263,7 +10263,7 @@
     "country": "Sweden",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 92,
     "distinctions": [
@@ -10304,7 +10304,7 @@
     "country": "Sweden",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 550,
     "rating": 4.4,
     "reviewCount": 1315,
     "distinctions": [
@@ -10345,7 +10345,7 @@
     "country": "Sweden",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 650,
     "rating": 4.5,
     "reviewCount": 2374,
     "distinctions": [
@@ -10386,7 +10386,7 @@
     "country": "Sweden",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1250,
     "rating": 4.5,
     "reviewCount": 757,
     "distinctions": [
@@ -10427,7 +10427,7 @@
     "country": "Sweden",
     "region": "Europe",
     "locationType": "city",
-    "price": 450,
+    "price": 800,
     "rating": 4.3,
     "reviewCount": 1228,
     "distinctions": [
@@ -10467,7 +10467,7 @@
     "country": "Sweden",
     "region": "Europe",
     "locationType": "city",
-    "price": 400,
+    "price": 950,
     "rating": 5,
     "reviewCount": 1,
     "distinctions": [
@@ -10501,7 +10501,7 @@
     "country": "Belgium",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 900,
     "rating": 4.4,
     "reviewCount": 2597,
     "distinctions": [
@@ -10542,7 +10542,7 @@
     "country": "Belgium",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 550,
     "rating": 4.5,
     "reviewCount": 4064,
     "distinctions": [
@@ -10583,7 +10583,7 @@
     "country": "Belgium",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1500,
     "rating": 4.5,
     "reviewCount": 981,
     "distinctions": [
@@ -10624,7 +10624,7 @@
     "country": "Belgium",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1300,
     "rating": 4.4,
     "reviewCount": 566,
     "distinctions": [
@@ -10665,7 +10665,7 @@
     "country": "Belgium",
     "region": "Europe",
     "locationType": "city",
-    "price": 700,
+    "price": 1300,
     "rating": 4.1,
     "reviewCount": 3340,
     "distinctions": [
@@ -10705,7 +10705,7 @@
     "country": "Belgium",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1050,
     "rating": 4.5,
     "reviewCount": 234,
     "distinctions": [
@@ -10746,7 +10746,7 @@
     "country": "Belgium",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1100,
     "rating": 4.5,
     "reviewCount": 395,
     "distinctions": [
@@ -10787,7 +10787,7 @@
     "country": "Belgium",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1050,
     "rating": 4.9,
     "reviewCount": 19,
     "distinctions": [
@@ -10828,7 +10828,7 @@
     "country": "Belgium",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1050,
     "rating": 4.6,
     "reviewCount": 1330,
     "distinctions": [
@@ -10870,7 +10870,7 @@
     "country": "Belgium",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1050,
     "rating": 4.5,
     "reviewCount": 2091,
     "distinctions": [
@@ -10911,7 +10911,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 2200,
     "rating": 4.6,
     "reviewCount": 1378,
     "distinctions": [
@@ -10953,7 +10953,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 800,
     "rating": 4.7,
     "reviewCount": 569,
     "distinctions": [
@@ -10995,7 +10995,7 @@
     "country": "Austria",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1850,
     "rating": 4.8,
     "reviewCount": 585,
     "distinctions": [
@@ -11037,7 +11037,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 750,
+    "price": 2600,
     "rating": 4.7,
     "reviewCount": 122,
     "distinctions": [
@@ -11078,7 +11078,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 750,
+    "price": 3800,
     "rating": 4.7,
     "reviewCount": 127,
     "distinctions": [
@@ -11119,7 +11119,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 750,
+    "price": 5950,
     "rating": 4.7,
     "reviewCount": 127,
     "distinctions": [
@@ -11160,7 +11160,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 500,
+    "price": 700,
     "rating": 4.6,
     "reviewCount": 153,
     "distinctions": [
@@ -11201,7 +11201,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 750,
+    "price": 2150,
     "rating": 4.7,
     "reviewCount": 212,
     "distinctions": [
@@ -11243,7 +11243,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 700,
+    "price": 1400,
     "rating": 4.4,
     "reviewCount": 374,
     "distinctions": [
@@ -11284,7 +11284,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 600,
+    "price": 4400,
     "rating": 4.5,
     "reviewCount": 96,
     "distinctions": [
@@ -11325,7 +11325,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 600,
+    "price": 800,
     "rating": 4.5,
     "reviewCount": 180,
     "distinctions": [
@@ -11366,7 +11366,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 500,
+    "price": 1850,
     "rating": 4.6,
     "reviewCount": 47,
     "distinctions": [
@@ -11407,7 +11407,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 500,
+    "price": 1200,
     "rating": 4.6,
     "reviewCount": 57,
     "distinctions": [
@@ -11448,7 +11448,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 600,
+    "price": 1700,
     "rating": 4.5,
     "reviewCount": 144,
     "distinctions": [
@@ -11489,7 +11489,7 @@
     "country": "France",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 650,
+    "price": 2100,
     "rating": 4.8,
     "reviewCount": 33,
     "distinctions": [
@@ -11530,7 +11530,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 750,
+    "price": 2350,
     "rating": 4.7,
     "reviewCount": 1323,
     "distinctions": [
@@ -11572,7 +11572,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 750,
+    "price": 700,
     "rating": 4.7,
     "reviewCount": 1092,
     "distinctions": [
@@ -11614,7 +11614,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 650,
+    "price": 1350,
     "rating": 4.8,
     "reviewCount": 374,
     "distinctions": [
@@ -11656,7 +11656,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 750,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 855,
     "distinctions": [
@@ -11698,7 +11698,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 2350,
+    "price": 1200,
     "rating": 4.7,
     "reviewCount": 204,
     "distinctions": [
@@ -11740,7 +11740,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 750,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 623,
     "distinctions": [
@@ -11782,7 +11782,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 500,
+    "price": 1500,
     "rating": 4.6,
     "reviewCount": 2602,
     "distinctions": [
@@ -11824,7 +11824,7 @@
     "country": "Switzerland",
     "region": "Europe",
     "locationType": "mountain",
-    "price": 600,
+    "price": 1500,
     "rating": 4.5,
     "reviewCount": 1364,
     "distinctions": [
@@ -11865,7 +11865,7 @@
     "country": "Turkey",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 600,
+    "price": 1600,
     "rating": 4.5,
     "reviewCount": 2987,
     "distinctions": [
@@ -11906,7 +11906,7 @@
     "country": "Turkey",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 650,
+    "price": 800,
     "rating": 4.8,
     "reviewCount": 1407,
     "distinctions": [
@@ -11948,7 +11948,7 @@
     "country": "Turkey",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1650,
     "rating": 4.6,
     "reviewCount": 262,
     "distinctions": [
@@ -11990,7 +11990,7 @@
     "country": "Turkey",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 500,
+    "price": 950,
     "rating": 4.9,
     "reviewCount": 2487,
     "distinctions": [
@@ -12032,7 +12032,7 @@
     "country": "Turkey",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1700,
     "rating": 4.7,
     "reviewCount": 4668,
     "distinctions": [
@@ -12074,7 +12074,7 @@
     "country": "Turkey",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 500,
+    "price": 400,
     "rating": 4.6,
     "reviewCount": 828,
     "distinctions": [
@@ -12116,7 +12116,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 500,
+    "price": 2700,
     "rating": 4.9,
     "reviewCount": 1885,
     "distinctions": [
@@ -12158,7 +12158,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1100,
     "rating": 4.6,
     "reviewCount": 875,
     "distinctions": [
@@ -12200,7 +12200,7 @@
     "country": "Italy",
     "region": "Europe",
     "locationType": "coastal",
-    "price": 500,
+    "price": 2000,
     "rating": 4.6,
     "reviewCount": 531,
     "distinctions": [
@@ -12242,7 +12242,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 950,
     "rating": 4.6,
     "reviewCount": 6929,
     "distinctions": [
@@ -12284,7 +12284,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 650,
+    "price": 1350,
     "rating": 4.8,
     "reviewCount": 991,
     "distinctions": [
@@ -12326,7 +12326,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1300,
     "rating": 4.6,
     "reviewCount": 2039,
     "distinctions": [
@@ -12368,7 +12368,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1100,
     "rating": 4.6,
     "reviewCount": 651,
     "distinctions": [
@@ -12410,7 +12410,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1200,
     "rating": 4.7,
     "reviewCount": 206,
     "distinctions": [
@@ -12452,7 +12452,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 600,
+    "price": 1050,
     "rating": 4.5,
     "reviewCount": 7323,
     "distinctions": [
@@ -12493,7 +12493,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 500,
+    "price": 1150,
     "rating": 4.6,
     "reviewCount": 561,
     "distinctions": [
@@ -12535,7 +12535,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "city",
-    "price": 750,
+    "price": 1750,
     "rating": 4.7,
     "reviewCount": 472,
     "distinctions": [
@@ -12577,7 +12577,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 1500,
     "rating": 4.6,
     "reviewCount": 996,
     "distinctions": [
@@ -12619,7 +12619,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 750,
     "rating": 4.6,
     "reviewCount": 863,
     "distinctions": [
@@ -12661,7 +12661,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 700,
+    "price": 2550,
     "rating": 4.4,
     "reviewCount": 775,
     "distinctions": [
@@ -12702,7 +12702,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 500,
     "rating": 4.8,
     "reviewCount": 1229,
     "distinctions": [
@@ -12744,7 +12744,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 203,
     "distinctions": [
@@ -12786,7 +12786,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 1400,
     "rating": 4.6,
     "reviewCount": 1077,
     "distinctions": [
@@ -12828,7 +12828,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 800,
     "rating": 4.6,
     "reviewCount": 653,
     "distinctions": [
@@ -12870,7 +12870,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 1500,
     "rating": 4.7,
     "reviewCount": 496,
     "distinctions": [
@@ -12912,7 +12912,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 1050,
     "rating": 4.6,
     "reviewCount": 843,
     "distinctions": [
@@ -12954,7 +12954,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 1150,
     "rating": 4.8,
     "reviewCount": 3736,
     "distinctions": [
@@ -12996,7 +12996,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 450,
     "rating": 4.7,
     "reviewCount": 400,
     "distinctions": [
@@ -13038,7 +13038,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 650,
+    "price": 500,
     "rating": 4.8,
     "reviewCount": 3384,
     "distinctions": [
@@ -13080,7 +13080,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 700,
+    "price": 1150,
     "rating": 4.4,
     "reviewCount": 1271,
     "distinctions": [
@@ -13121,7 +13121,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 550,
+    "price": 1450,
     "rating": 4.2,
     "reviewCount": 780,
     "distinctions": [
@@ -13161,7 +13161,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 800,
     "rating": 4.6,
     "reviewCount": 6396,
     "distinctions": [
@@ -13203,7 +13203,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 600,
+    "price": 550,
     "rating": 4.5,
     "reviewCount": 840,
     "distinctions": [
@@ -13244,7 +13244,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 450,
+    "price": 1650,
     "rating": 4.3,
     "reviewCount": 1195,
     "distinctions": [
@@ -13284,7 +13284,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 1500,
     "rating": 4.6,
     "reviewCount": 10478,
     "distinctions": [
@@ -13326,7 +13326,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 2050,
     "rating": 4.6,
     "reviewCount": 779,
     "distinctions": [
@@ -13368,7 +13368,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 500,
+    "price": 1150,
     "rating": 4.6,
     "reviewCount": 3113,
     "distinctions": [
@@ -13410,7 +13410,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 600,
+    "price": 950,
     "rating": 4.5,
     "reviewCount": 2318,
     "distinctions": [
@@ -13451,7 +13451,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 700,
+    "price": 1700,
     "rating": 4.4,
     "reviewCount": 581,
     "distinctions": [
@@ -13492,7 +13492,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 750,
+    "price": 1700,
     "rating": 4.7,
     "reviewCount": 4002,
     "distinctions": [
@@ -13534,7 +13534,7 @@
     "country": "Spain",
     "region": "Europe",
     "locationType": "island",
-    "price": 450,
+    "price": 1450,
     "rating": 4.3,
     "reviewCount": 1081,
     "distinctions": [
@@ -13574,7 +13574,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 3800,
     "rating": 4.4,
     "reviewCount": 1910,
     "distinctions": [
@@ -13615,7 +13615,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 2200,
     "rating": 4.5,
     "reviewCount": 4628,
     "distinctions": [
@@ -13656,7 +13656,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 900,
     "rating": 4.5,
     "reviewCount": 4313,
     "distinctions": [
@@ -13697,7 +13697,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 2600,
     "rating": 4.4,
     "reviewCount": 4273,
     "distinctions": [
@@ -13738,7 +13738,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 550,
     "rating": 4.5,
     "reviewCount": 4586,
     "distinctions": [
@@ -13779,7 +13779,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 700,
     "rating": 4.5,
     "reviewCount": 3165,
     "distinctions": [
@@ -13820,7 +13820,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 850,
     "rating": 4.5,
     "reviewCount": 4449,
     "distinctions": [
@@ -13861,7 +13861,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 750,
     "rating": 4.4,
     "reviewCount": 5006,
     "distinctions": [
@@ -13902,7 +13902,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 550,
+    "price": 1250,
     "rating": 4.2,
     "reviewCount": 6282,
     "distinctions": [
@@ -13942,7 +13942,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 750,
     "rating": 4.6,
     "reviewCount": 896,
     "distinctions": [
@@ -13984,7 +13984,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 2100,
     "rating": 4.4,
     "reviewCount": 1741,
     "distinctions": [
@@ -14025,7 +14025,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1700,
     "rating": 4.6,
     "reviewCount": 221,
     "distinctions": [
@@ -14067,7 +14067,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1700,
     "rating": 4.6,
     "reviewCount": 2435,
     "distinctions": [
@@ -14109,7 +14109,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1850,
     "rating": 4.5,
     "reviewCount": 1151,
     "distinctions": [
@@ -14150,7 +14150,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 2150,
+    "price": 600,
     "rating": 4.4,
     "reviewCount": 703,
     "distinctions": [
@@ -14191,7 +14191,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1650,
     "rating": 4.6,
     "reviewCount": 118,
     "distinctions": [
@@ -14232,7 +14232,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1800,
     "rating": 4.6,
     "reviewCount": 1069,
     "distinctions": [
@@ -14274,7 +14274,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2100,
     "rating": 4.6,
     "reviewCount": 1212,
     "distinctions": [
@@ -14316,7 +14316,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 850,
     "rating": 4.7,
     "reviewCount": 278,
     "distinctions": [
@@ -14358,7 +14358,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 450,
+    "price": 2000,
     "rating": 4.3,
     "reviewCount": 412,
     "distinctions": [
@@ -14398,7 +14398,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1750,
     "rating": 4.7,
     "reviewCount": 144,
     "distinctions": [
@@ -14439,7 +14439,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 2150,
+    "price": 1600,
     "rating": 4.4,
     "reviewCount": 5232,
     "distinctions": [
@@ -14480,7 +14480,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 600,
     "rating": 4.4,
     "reviewCount": 2257,
     "distinctions": [
@@ -14521,7 +14521,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 550,
+    "price": 1300,
     "rating": 4.2,
     "reviewCount": 6545,
     "distinctions": [
@@ -14561,7 +14561,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 2550,
     "rating": 4.5,
     "reviewCount": 527,
     "distinctions": [
@@ -14602,7 +14602,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 750,
     "rating": 4.6,
     "reviewCount": 3747,
     "distinctions": [
@@ -14644,7 +14644,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 1050,
     "rating": 4.4,
     "reviewCount": 2604,
     "distinctions": [
@@ -14685,7 +14685,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 950,
     "rating": 4.8,
     "reviewCount": 331,
     "distinctions": [
@@ -14768,7 +14768,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 1350,
     "rating": 4.4,
     "reviewCount": 1388,
     "distinctions": [
@@ -14809,7 +14809,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1350,
     "rating": 4.5,
     "reviewCount": 1410,
     "distinctions": [
@@ -14850,7 +14850,7 @@
     "country": "Japan",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 3589,
     "distinctions": [
@@ -14931,7 +14931,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1400,
     "rating": 4.6,
     "reviewCount": 11172,
     "distinctions": [
@@ -14973,7 +14973,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 2350,
+    "price": 1300,
     "rating": 4.7,
     "reviewCount": 6489,
     "distinctions": [
@@ -15015,7 +15015,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 850,
     "rating": 4.8,
     "reviewCount": 3162,
     "distinctions": [
@@ -15057,7 +15057,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 2700,
     "rating": 4.7,
     "reviewCount": 4797,
     "distinctions": [
@@ -15099,7 +15099,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 2400,
     "rating": 4.8,
     "reviewCount": 3354,
     "distinctions": [
@@ -15141,7 +15141,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1750,
     "rating": 4.6,
     "reviewCount": 554,
     "distinctions": [
@@ -15183,7 +15183,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1250,
     "rating": 4.6,
     "reviewCount": 6795,
     "distinctions": [
@@ -15267,7 +15267,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1400,
     "rating": 4.6,
     "reviewCount": 6521,
     "distinctions": [
@@ -15309,7 +15309,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 1400,
     "rating": 4.4,
     "reviewCount": 5464,
     "distinctions": [
@@ -15350,7 +15350,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 1650,
     "rating": 4.8,
     "reviewCount": 895,
     "distinctions": [
@@ -15392,7 +15392,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1100,
     "rating": 4.7,
     "reviewCount": 6471,
     "distinctions": [
@@ -15434,7 +15434,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 3580,
     "distinctions": [
@@ -15476,7 +15476,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 900,
     "rating": 4.7,
     "reviewCount": 11332,
     "distinctions": [
@@ -15518,7 +15518,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 1500,
     "rating": 4.7,
     "reviewCount": 3053,
     "distinctions": [
@@ -15560,7 +15560,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 500,
+    "price": 650,
     "rating": 4.9,
     "reviewCount": 647,
     "distinctions": [
@@ -15602,7 +15602,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 600,
+    "price": 850,
     "rating": 4.5,
     "reviewCount": 8647,
     "distinctions": [
@@ -15643,7 +15643,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 850,
     "rating": 4.8,
     "reviewCount": 2746,
     "distinctions": [
@@ -15685,7 +15685,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 450,
     "rating": 4.8,
     "reviewCount": 2703,
     "distinctions": [
@@ -15727,7 +15727,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 2350,
+    "price": 1350,
     "rating": 4.7,
     "reviewCount": 1874,
     "distinctions": [
@@ -15811,7 +15811,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 500,
+    "price": 1450,
     "rating": 4.9,
     "reviewCount": 844,
     "distinctions": [
@@ -15853,7 +15853,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 1250,
     "rating": 4.8,
     "reviewCount": 5061,
     "distinctions": [
@@ -15895,7 +15895,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 500,
+    "price": 1000,
     "rating": 4.9,
     "reviewCount": 249,
     "distinctions": [
@@ -15936,7 +15936,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "island",
-    "price": 500,
+    "price": 600,
     "rating": 4.6,
     "reviewCount": 5078,
     "distinctions": [
@@ -15978,7 +15978,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "island",
-    "price": 600,
+    "price": 1350,
     "rating": 4.5,
     "reviewCount": 1047,
     "distinctions": [
@@ -16019,7 +16019,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 450,
     "rating": 4.7,
     "reviewCount": 813,
     "distinctions": [
@@ -16061,7 +16061,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "island",
-    "price": 500,
+    "price": 900,
     "rating": 4.6,
     "reviewCount": 1185,
     "distinctions": [
@@ -16103,7 +16103,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 1150,
     "rating": 4.8,
     "reviewCount": 3118,
     "distinctions": [
@@ -16145,7 +16145,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 1200,
     "rating": 4.7,
     "reviewCount": 2842,
     "distinctions": [
@@ -16187,7 +16187,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "island",
-    "price": 600,
+    "price": 350,
     "rating": 4.5,
     "reviewCount": 3776,
     "distinctions": [
@@ -16228,7 +16228,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 1100,
     "rating": 4.8,
     "reviewCount": 612,
     "distinctions": [
@@ -16270,7 +16270,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 1200,
     "rating": 4.8,
     "reviewCount": 338,
     "distinctions": [
@@ -16312,7 +16312,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 1750,
     "rating": 4.8,
     "reviewCount": 1045,
     "distinctions": [
@@ -16354,7 +16354,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 551,
     "distinctions": [
@@ -16396,7 +16396,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 2550,
     "rating": 4.8,
     "reviewCount": 608,
     "distinctions": [
@@ -16438,7 +16438,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 1650,
     "rating": 4.8,
     "reviewCount": 160,
     "distinctions": [
@@ -16479,7 +16479,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 2550,
     "rating": 4.8,
     "reviewCount": 621,
     "distinctions": [
@@ -16521,7 +16521,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 800,
     "rating": 4.7,
     "reviewCount": 5073,
     "distinctions": [
@@ -16563,7 +16563,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 600,
+    "price": 1300,
     "rating": 4.5,
     "reviewCount": 1004,
     "distinctions": [
@@ -16604,7 +16604,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 1800,
     "rating": 4.8,
     "reviewCount": 2376,
     "distinctions": [
@@ -16687,7 +16687,7 @@
     "country": "Maldives",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 206,
     "distinctions": [
@@ -16729,7 +16729,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1000,
     "rating": 4.7,
     "reviewCount": 62777,
     "distinctions": [
@@ -16771,7 +16771,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2150,
     "rating": 4.6,
     "reviewCount": 6750,
     "distinctions": [
@@ -16813,7 +16813,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 1150,
+    "price": 2000,
     "rating": 4.6,
     "reviewCount": 6301,
     "distinctions": [
@@ -16855,7 +16855,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2950,
     "rating": 4.6,
     "reviewCount": 3298,
     "distinctions": [
@@ -16897,7 +16897,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 3250,
     "rating": 4.7,
     "reviewCount": 2708,
     "distinctions": [
@@ -16939,7 +16939,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2000,
     "rating": 4.6,
     "reviewCount": 13149,
     "distinctions": [
@@ -16981,7 +16981,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1450,
     "rating": 4.6,
     "reviewCount": 4246,
     "distinctions": [
@@ -17023,7 +17023,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 1650,
+    "price": 1400,
     "rating": 4.5,
     "reviewCount": 7243,
     "distinctions": [
@@ -17064,7 +17064,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1050,
     "rating": 4.6,
     "reviewCount": 9181,
     "distinctions": [
@@ -17106,7 +17106,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2200,
     "rating": 4.6,
     "reviewCount": 7469,
     "distinctions": [
@@ -17148,7 +17148,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 650,
     "rating": 4.5,
     "reviewCount": 9087,
     "distinctions": [
@@ -17189,7 +17189,7 @@
     "country": "Singapore",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1450,
     "rating": 4.6,
     "reviewCount": 5414,
     "distinctions": [
@@ -17231,7 +17231,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2500,
     "rating": 4.6,
     "reviewCount": 7437,
     "distinctions": [
@@ -17273,7 +17273,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2050,
     "rating": 4.6,
     "reviewCount": 2827,
     "distinctions": [
@@ -17315,7 +17315,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 1650,
+    "price": 2700,
     "rating": 4.5,
     "reviewCount": 3627,
     "distinctions": [
@@ -17356,7 +17356,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1500,
     "rating": 4.5,
     "reviewCount": 3989,
     "distinctions": [
@@ -17397,7 +17397,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 2300,
     "rating": 4.5,
     "reviewCount": 2904,
     "distinctions": [
@@ -17438,7 +17438,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 2050,
     "rating": 4.4,
     "reviewCount": 6194,
     "distinctions": [
@@ -17479,7 +17479,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1300,
     "rating": 4.6,
     "reviewCount": 5167,
     "distinctions": [
@@ -17521,7 +17521,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1650,
     "rating": 4.5,
     "reviewCount": 5141,
     "distinctions": [
@@ -17562,7 +17562,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 850,
     "rating": 4.4,
     "reviewCount": 4234,
     "distinctions": [
@@ -17603,7 +17603,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 450,
+    "price": 1700,
     "rating": 4.3,
     "reviewCount": 2437,
     "distinctions": [
@@ -17685,7 +17685,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1100,
     "rating": 4.7,
     "reviewCount": 1725,
     "distinctions": [
@@ -17727,7 +17727,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2000,
     "rating": 4.6,
     "reviewCount": 777,
     "distinctions": [
@@ -17769,7 +17769,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 2400,
     "rating": 4.7,
     "reviewCount": 311,
     "distinctions": [
@@ -17811,7 +17811,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 650,
     "rating": 4.4,
     "reviewCount": 722,
     "distinctions": [
@@ -17852,7 +17852,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2000,
     "rating": 4.6,
     "reviewCount": 184,
     "distinctions": [
@@ -17893,7 +17893,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1100,
     "rating": 4.7,
     "reviewCount": 72,
     "distinctions": [
@@ -17934,7 +17934,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 800,
     "rating": 4.5,
     "reviewCount": 235,
     "distinctions": [
@@ -18016,7 +18016,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 550,
     "rating": 4.4,
     "reviewCount": 2118,
     "distinctions": [
@@ -18057,7 +18057,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 900,
     "rating": 4.5,
     "reviewCount": 95,
     "distinctions": [
@@ -18098,7 +18098,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 450,
+    "price": 1000,
     "rating": 4.3,
     "reviewCount": 491,
     "distinctions": [
@@ -18138,7 +18138,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 500,
     "rating": 4.4,
     "reviewCount": 1366,
     "distinctions": [
@@ -18179,7 +18179,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1550,
     "rating": 4.5,
     "reviewCount": 246,
     "distinctions": [
@@ -18220,7 +18220,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2500,
     "rating": 4.6,
     "reviewCount": 121,
     "distinctions": [
@@ -18261,7 +18261,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1050,
     "rating": 4.5,
     "reviewCount": 278,
     "distinctions": [
@@ -18302,7 +18302,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1500,
     "rating": 4.6,
     "reviewCount": 182,
     "distinctions": [
@@ -18343,7 +18343,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 450,
+    "price": 1550,
     "rating": 4.3,
     "reviewCount": 88,
     "distinctions": [
@@ -18424,7 +18424,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 900,
     "rating": 4.5,
     "reviewCount": 215,
     "distinctions": [
@@ -18465,7 +18465,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 550,
     "rating": 4.4,
     "reviewCount": 103,
     "distinctions": [
@@ -18506,7 +18506,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1450,
     "rating": 4.7,
     "reviewCount": 175,
     "distinctions": [
@@ -18547,7 +18547,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 1300,
     "rating": 4.4,
     "reviewCount": 362,
     "distinctions": [
@@ -18588,7 +18588,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1550,
     "rating": 4.6,
     "reviewCount": 54,
     "distinctions": [
@@ -18629,7 +18629,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 3200,
     "rating": 4.4,
     "reviewCount": 57,
     "distinctions": [
@@ -18670,7 +18670,7 @@
     "country": "China",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2050,
     "rating": 4.6,
     "reviewCount": 17,
     "distinctions": [
@@ -18711,7 +18711,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 33498,
     "distinctions": [
@@ -18753,7 +18753,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 23652,
     "distinctions": [
@@ -18795,7 +18795,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 7510,
     "distinctions": [
@@ -18837,7 +18837,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 550,
     "rating": 4.7,
     "reviewCount": 10879,
     "distinctions": [
@@ -18879,7 +18879,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 19141,
     "distinctions": [
@@ -18920,7 +18920,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 900,
     "rating": 4.6,
     "reviewCount": 36109,
     "distinctions": [
@@ -18962,7 +18962,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 800,
     "rating": 4.4,
     "reviewCount": 26938,
     "distinctions": [
@@ -19003,7 +19003,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 2150,
+    "price": 650,
     "rating": 4.4,
     "reviewCount": 4405,
     "distinctions": [
@@ -19044,7 +19044,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 400,
     "rating": 4.7,
     "reviewCount": 37222,
     "distinctions": [
@@ -19086,7 +19086,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1400,
     "rating": 4.6,
     "reviewCount": 17987,
     "distinctions": [
@@ -19128,7 +19128,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 2748,
     "distinctions": [
@@ -19170,7 +19170,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1400,
     "rating": 4.6,
     "reviewCount": 1750,
     "distinctions": [
@@ -19212,7 +19212,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 1800,
+    "price": 1550,
     "rating": 4.8,
     "reviewCount": 7429,
     "distinctions": [
@@ -19254,7 +19254,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 900,
     "rating": 4.7,
     "reviewCount": 3314,
     "distinctions": [
@@ -19296,7 +19296,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 800,
     "rating": 4.7,
     "reviewCount": 8680,
     "distinctions": [
@@ -19338,7 +19338,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 500,
     "rating": 4.8,
     "reviewCount": 18294,
     "distinctions": [
@@ -19380,7 +19380,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 450,
+    "price": 850,
     "rating": 4.3,
     "reviewCount": 11205,
     "distinctions": [
@@ -19420,7 +19420,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1100,
     "rating": 4.6,
     "reviewCount": 4182,
     "distinctions": [
@@ -19462,7 +19462,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1250,
     "rating": 4.7,
     "reviewCount": 18775,
     "distinctions": [
@@ -19504,7 +19504,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1450,
     "rating": 4.7,
     "reviewCount": 34652,
     "distinctions": [
@@ -19546,7 +19546,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1300,
     "rating": 4.6,
     "reviewCount": 14731,
     "distinctions": [
@@ -19588,7 +19588,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 800,
     "rating": 4.6,
     "reviewCount": 11558,
     "distinctions": [
@@ -19672,7 +19672,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 2350,
+    "price": 400,
     "rating": 4.7,
     "reviewCount": 8843,
     "distinctions": [
@@ -19714,7 +19714,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 550,
+    "price": 400,
     "rating": 4.2,
     "reviewCount": 12061,
     "distinctions": [
@@ -19754,7 +19754,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 750,
     "rating": 4.6,
     "reviewCount": 25060,
     "distinctions": [
@@ -19796,7 +19796,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 1150,
+    "price": 1050,
     "rating": 4.6,
     "reviewCount": 6181,
     "distinctions": [
@@ -19838,7 +19838,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1050,
     "rating": 4.5,
     "reviewCount": 18289,
     "distinctions": [
@@ -19879,7 +19879,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1300,
     "rating": 4.5,
     "reviewCount": 3756,
     "distinctions": [
@@ -19920,7 +19920,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 450,
+    "price": 650,
     "rating": 4.3,
     "reviewCount": 10442,
     "distinctions": [
@@ -19960,7 +19960,7 @@
     "country": "India",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 400,
     "rating": 4.6,
     "reviewCount": 20186,
     "distinctions": [
@@ -20002,7 +20002,7 @@
     "country": "Sri Lanka",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 450,
     "rating": 4.6,
     "reviewCount": 16655,
     "distinctions": [
@@ -20044,7 +20044,7 @@
     "country": "Sri Lanka",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1450,
     "rating": 4.7,
     "reviewCount": 20390,
     "distinctions": [
@@ -20086,7 +20086,7 @@
     "country": "Sri Lanka",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 750,
     "rating": 4.5,
     "reviewCount": 12588,
     "distinctions": [
@@ -20127,7 +20127,7 @@
     "country": "Sri Lanka",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1150,
     "rating": 4.6,
     "reviewCount": 11423,
     "distinctions": [
@@ -20169,7 +20169,7 @@
     "country": "Sri Lanka",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1700,
     "rating": 4.6,
     "reviewCount": 17155,
     "distinctions": [
@@ -20211,7 +20211,7 @@
     "country": "Sri Lanka",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 800,
     "rating": 4.5,
     "reviewCount": 2573,
     "distinctions": [
@@ -20252,7 +20252,7 @@
     "country": "Sri Lanka",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 1550,
     "rating": 4.5,
     "reviewCount": 5843,
     "distinctions": [
@@ -20293,7 +20293,7 @@
     "country": "Sri Lanka",
     "region": "Asia",
     "locationType": "city",
-    "price": 700,
+    "price": 1050,
     "rating": 4.4,
     "reviewCount": 1223,
     "distinctions": [
@@ -20334,7 +20334,7 @@
     "country": "Sri Lanka",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 650,
     "rating": 4.5,
     "reviewCount": 21053,
     "distinctions": [
@@ -20375,7 +20375,7 @@
     "country": "Sri Lanka",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 900,
     "rating": 4.5,
     "reviewCount": 3464,
     "distinctions": [
@@ -20416,7 +20416,7 @@
     "country": "Bhutan",
     "region": "Asia",
     "locationType": "mountain",
-    "price": 750,
+    "price": 1000,
     "rating": 4.7,
     "reviewCount": 559,
     "distinctions": [
@@ -20458,7 +20458,7 @@
     "country": "Bhutan",
     "region": "Asia",
     "locationType": "mountain",
-    "price": 500,
+    "price": 2300,
     "rating": 4.6,
     "reviewCount": 66,
     "distinctions": [
@@ -20499,7 +20499,7 @@
     "country": "Bhutan",
     "region": "Asia",
     "locationType": "mountain",
-    "price": 500,
+    "price": 750,
     "rating": 4.6,
     "reviewCount": 91,
     "distinctions": [
@@ -20540,7 +20540,7 @@
     "country": "Bhutan",
     "region": "Asia",
     "locationType": "mountain",
-    "price": 600,
+    "price": 900,
     "rating": 4.5,
     "reviewCount": 285,
     "distinctions": [
@@ -20581,7 +20581,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2000,
     "rating": 4.9,
     "reviewCount": 1214,
     "distinctions": [
@@ -20623,7 +20623,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 2200,
     "rating": 4.7,
     "reviewCount": 1097,
     "distinctions": [
@@ -20665,7 +20665,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2250,
     "rating": 4.9,
     "reviewCount": 1591,
     "distinctions": [
@@ -20707,7 +20707,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 800,
     "rating": 4.9,
     "reviewCount": 294,
     "distinctions": [
@@ -20748,7 +20748,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 1550,
     "rating": 4.8,
     "reviewCount": 3625,
     "distinctions": [
@@ -20790,7 +20790,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 450,
     "rating": 4.8,
     "reviewCount": 936,
     "distinctions": [
@@ -20832,7 +20832,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 1700,
     "rating": 4.8,
     "reviewCount": 5192,
     "distinctions": [
@@ -20874,7 +20874,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 1150,
     "rating": 4.8,
     "reviewCount": 1402,
     "distinctions": [
@@ -20916,7 +20916,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 500,
     "rating": 4.7,
     "reviewCount": 1167,
     "distinctions": [
@@ -20958,7 +20958,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 1450,
     "rating": 4.8,
     "reviewCount": 814,
     "distinctions": [
@@ -21000,7 +21000,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 450,
     "rating": 4.9,
     "reviewCount": 507,
     "distinctions": [
@@ -21042,7 +21042,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 700,
     "rating": 4.7,
     "reviewCount": 5974,
     "distinctions": [
@@ -21084,7 +21084,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1250,
     "rating": 4.9,
     "reviewCount": 1826,
     "distinctions": [
@@ -21126,7 +21126,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 1700,
     "rating": 4.8,
     "reviewCount": 1283,
     "distinctions": [
@@ -21168,7 +21168,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 550,
     "rating": 4.8,
     "reviewCount": 75,
     "distinctions": [
@@ -21209,7 +21209,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1400,
     "rating": 4.9,
     "reviewCount": 440,
     "distinctions": [
@@ -21251,7 +21251,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 11197,
     "distinctions": [
@@ -21293,7 +21293,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 600,
+    "price": 750,
     "rating": 4.5,
     "reviewCount": 4965,
     "distinctions": [
@@ -21334,7 +21334,7 @@
     "country": "Vietnam",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 950,
     "rating": 4.7,
     "reviewCount": 6457,
     "distinctions": [
@@ -21376,7 +21376,7 @@
     "country": "Cambodia",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 650,
+    "price": 1100,
     "rating": 4.8,
     "reviewCount": 1676,
     "distinctions": [
@@ -21417,7 +21417,7 @@
     "country": "Cambodia",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 750,
+    "price": 1250,
     "rating": 4.7,
     "reviewCount": 733,
     "distinctions": [
@@ -21458,7 +21458,7 @@
     "country": "Cambodia",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 650,
+    "price": 1400,
     "rating": 4.8,
     "reviewCount": 673,
     "distinctions": [
@@ -21499,7 +21499,7 @@
     "country": "Cambodia",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 750,
+    "price": 550,
     "rating": 4.7,
     "reviewCount": 859,
     "distinctions": [
@@ -21540,7 +21540,7 @@
     "country": "Cambodia",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 750,
+    "price": 1350,
     "rating": 4.7,
     "reviewCount": 120,
     "distinctions": [
@@ -21580,7 +21580,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 500,
+    "price": 1250,
     "rating": 4.6,
     "reviewCount": 1205,
     "distinctions": [
@@ -21622,7 +21622,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 500,
+    "price": 900,
     "rating": 4.6,
     "reviewCount": 2014,
     "distinctions": [
@@ -21664,7 +21664,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 800,
     "rating": 4.8,
     "reviewCount": 2364,
     "distinctions": [
@@ -21706,7 +21706,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 700,
+    "price": 1400,
     "rating": 4.4,
     "reviewCount": 8008,
     "distinctions": [
@@ -21747,7 +21747,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 600,
+    "price": 2050,
     "rating": 4.5,
     "reviewCount": 1082,
     "distinctions": [
@@ -21788,7 +21788,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 500,
     "rating": 4.7,
     "reviewCount": 1089,
     "distinctions": [
@@ -21830,7 +21830,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 700,
     "rating": 4.7,
     "reviewCount": 1434,
     "distinctions": [
@@ -21913,7 +21913,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 1638,
     "distinctions": [
@@ -21955,7 +21955,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 600,
+    "price": 1400,
     "rating": 4.5,
     "reviewCount": 6541,
     "distinctions": [
@@ -21996,7 +21996,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 900,
     "rating": 4.8,
     "reviewCount": 25,
     "distinctions": [
@@ -22037,7 +22037,7 @@
     "country": "Malaysia",
     "region": "Asia",
     "locationType": "island",
-    "price": 700,
+    "price": 650,
     "rating": 4.4,
     "reviewCount": 1678,
     "distinctions": [
@@ -22078,7 +22078,7 @@
     "country": "South Korea",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 2250,
     "rating": 4.6,
     "reviewCount": 7219,
     "distinctions": [
@@ -22120,7 +22120,7 @@
     "country": "South Korea",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1100,
     "rating": 4.6,
     "reviewCount": 7452,
     "distinctions": [
@@ -22162,7 +22162,7 @@
     "country": "South Korea",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1150,
     "rating": 4.6,
     "reviewCount": 1405,
     "distinctions": [
@@ -22204,7 +22204,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 650,
     "rating": 4.6,
     "reviewCount": 4163,
     "distinctions": [
@@ -22246,7 +22246,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 950,
     "rating": 4.7,
     "reviewCount": 1784,
     "distinctions": [
@@ -22288,7 +22288,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 900,
     "rating": 4.7,
     "reviewCount": 1295,
     "distinctions": [
@@ -22330,7 +22330,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 650,
     "rating": 4.7,
     "reviewCount": 2294,
     "distinctions": [
@@ -22372,7 +22372,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1150,
     "rating": 4.6,
     "reviewCount": 833,
     "distinctions": [
@@ -22414,7 +22414,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 400,
     "rating": 4.7,
     "reviewCount": 595,
     "distinctions": [
@@ -22456,7 +22456,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 650,
+    "price": 1400,
     "rating": 4.8,
     "reviewCount": 948,
     "distinctions": [
@@ -22498,7 +22498,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1150,
     "rating": 4.9,
     "reviewCount": 386,
     "distinctions": [
@@ -22540,7 +22540,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1100,
     "rating": 4.7,
     "reviewCount": 1140,
     "distinctions": [
@@ -22582,7 +22582,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 550,
     "rating": 4.7,
     "reviewCount": 414,
     "distinctions": [
@@ -22624,7 +22624,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 500,
+    "price": 1050,
     "rating": 4.6,
     "reviewCount": 1333,
     "distinctions": [
@@ -22666,7 +22666,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "city",
-    "price": 750,
+    "price": 1000,
     "rating": 4.7,
     "reviewCount": 482,
     "distinctions": [
@@ -22708,7 +22708,7 @@
     "country": "Thailand",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 1350,
     "rating": 4.8,
     "reviewCount": 979,
     "distinctions": [
@@ -22750,7 +22750,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 750,
     "rating": 4.8,
     "reviewCount": 189,
     "distinctions": [
@@ -22791,7 +22791,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 450,
     "rating": 4.8,
     "reviewCount": 281,
     "distinctions": [
@@ -22832,7 +22832,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 1300,
     "rating": 4.8,
     "reviewCount": 517,
     "distinctions": [
@@ -22874,7 +22874,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "island",
-    "price": 650,
+    "price": 1000,
     "rating": 4.8,
     "reviewCount": 1732,
     "distinctions": [
@@ -22916,7 +22916,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1050,
     "rating": 4.6,
     "reviewCount": 4339,
     "distinctions": [
@@ -22958,7 +22958,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "coastal",
-    "price": 750,
+    "price": 450,
     "rating": 4.7,
     "reviewCount": 3580,
     "distinctions": [
@@ -23000,7 +23000,7 @@
     "country": "Indonesia",
     "region": "Asia",
     "locationType": "coastal",
-    "price": 600,
+    "price": 950,
     "rating": 4.5,
     "reviewCount": 8647,
     "distinctions": [
@@ -23041,7 +23041,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 750,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 223,
     "distinctions": [
@@ -23083,7 +23083,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 429,
     "distinctions": [
@@ -23124,7 +23124,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 543,
     "distinctions": [
@@ -23164,7 +23164,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 500,
+    "price": 700,
     "rating": 4.6,
     "reviewCount": 392,
     "distinctions": [
@@ -23205,7 +23205,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 600,
+    "price": 1050,
     "rating": 4.5,
     "reviewCount": 197,
     "distinctions": [
@@ -23245,7 +23245,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 750,
+    "price": 350,
     "rating": 4.7,
     "reviewCount": 582,
     "distinctions": [
@@ -23286,7 +23286,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 750,
+    "price": 350,
     "rating": 4.7,
     "reviewCount": 214,
     "distinctions": [
@@ -23327,7 +23327,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 500,
+    "price": 350,
     "rating": 4.6,
     "reviewCount": 180,
     "distinctions": [
@@ -23367,7 +23367,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 700,
+    "price": 850,
     "rating": 4.4,
     "reviewCount": 485,
     "distinctions": [
@@ -23407,7 +23407,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 750,
+    "price": 400,
     "rating": 4.7,
     "reviewCount": 277,
     "distinctions": [
@@ -23448,7 +23448,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 650,
+    "price": 1200,
     "rating": 4.8,
     "reviewCount": 490,
     "distinctions": [
@@ -23489,7 +23489,7 @@
     "country": "Laos",
     "region": "Asia",
     "locationType": "cultural",
-    "price": 600,
+    "price": 950,
     "rating": 4.5,
     "reviewCount": 527,
     "distinctions": [
@@ -23529,7 +23529,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1150,
+    "price": 1000,
     "rating": 4.6,
     "reviewCount": 635,
     "distinctions": [
@@ -23571,7 +23571,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 500,
+    "price": 2400,
     "rating": 4.6,
     "reviewCount": 1750,
     "distinctions": [
@@ -23613,7 +23613,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 600,
+    "price": 700,
     "rating": 4.5,
     "reviewCount": 6766,
     "distinctions": [
@@ -23654,7 +23654,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1150,
+    "price": 3550,
     "rating": 4.6,
     "reviewCount": 1185,
     "distinctions": [
@@ -23696,7 +23696,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 700,
+    "price": 3400,
     "rating": 4.4,
     "reviewCount": 327,
     "distinctions": [
@@ -23737,7 +23737,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 600,
+    "price": 1400,
     "rating": 4.5,
     "reviewCount": 2266,
     "distinctions": [
@@ -23778,7 +23778,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 700,
+    "price": 950,
     "rating": 4.4,
     "reviewCount": 602,
     "distinctions": [
@@ -23819,7 +23819,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1650,
+    "price": 2100,
     "rating": 4.5,
     "reviewCount": 1854,
     "distinctions": [
@@ -23860,7 +23860,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1150,
+    "price": 1750,
     "rating": 4.6,
     "reviewCount": 1781,
     "distinctions": [
@@ -23902,7 +23902,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1650,
+    "price": 2000,
     "rating": 4.5,
     "reviewCount": 442,
     "distinctions": [
@@ -23943,7 +23943,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 500,
+    "price": 3350,
     "rating": 4.6,
     "reviewCount": 1788,
     "distinctions": [
@@ -23985,7 +23985,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 2400,
     "rating": 4.7,
     "reviewCount": 435,
     "distinctions": [
@@ -24027,7 +24027,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 950,
+    "price": 1200,
     "rating": 4.3,
     "reviewCount": 3111,
     "distinctions": [
@@ -24109,7 +24109,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 500,
+    "price": 1700,
     "rating": 4.6,
     "reviewCount": 1199,
     "distinctions": [
@@ -24151,7 +24151,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1150,
+    "price": 1050,
     "rating": 4.6,
     "reviewCount": 1296,
     "distinctions": [
@@ -24193,7 +24193,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1150,
+    "price": 2500,
     "rating": 4.6,
     "reviewCount": 2365,
     "distinctions": [
@@ -24235,7 +24235,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 600,
+    "price": 1200,
     "rating": 4.5,
     "reviewCount": 2278,
     "distinctions": [
@@ -24276,7 +24276,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 500,
+    "price": 1300,
     "rating": 4.6,
     "reviewCount": 2129,
     "distinctions": [
@@ -24359,7 +24359,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 2450,
     "rating": 4.7,
     "reviewCount": 401,
     "distinctions": [
@@ -24401,7 +24401,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1650,
+    "price": 1350,
     "rating": 4.5,
     "reviewCount": 5435,
     "distinctions": [
@@ -24442,7 +24442,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 500,
+    "price": 2000,
     "rating": 4.6,
     "reviewCount": 1870,
     "distinctions": [
@@ -24484,7 +24484,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1150,
+    "price": 650,
     "rating": 4.6,
     "reviewCount": 1361,
     "distinctions": [
@@ -24526,7 +24526,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 600,
+    "price": 1500,
     "rating": 4.5,
     "reviewCount": 686,
     "distinctions": [
@@ -24567,7 +24567,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1200,
     "rating": 4.7,
     "reviewCount": 2780,
     "distinctions": [
@@ -24609,7 +24609,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 2350,
+    "price": 900,
     "rating": 4.7,
     "reviewCount": 2106,
     "distinctions": [
@@ -24651,7 +24651,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1150,
+    "price": 550,
     "rating": 4.6,
     "reviewCount": 1842,
     "distinctions": [
@@ -24693,7 +24693,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 1709,
     "distinctions": [
@@ -24735,7 +24735,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 500,
+    "price": 850,
     "rating": 4.6,
     "reviewCount": 4006,
     "distinctions": [
@@ -24777,7 +24777,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 450,
+    "price": 950,
     "rating": 4.3,
     "reviewCount": 441,
     "distinctions": [
@@ -24817,7 +24817,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1100,
     "rating": 4.7,
     "reviewCount": 2567,
     "distinctions": [
@@ -24859,7 +24859,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1650,
+    "price": 1300,
     "rating": 4.5,
     "reviewCount": 1575,
     "distinctions": [
@@ -24900,7 +24900,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 2350,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 2237,
     "distinctions": [
@@ -24942,7 +24942,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 500,
+    "price": 400,
     "rating": 4.6,
     "reviewCount": 3577,
     "distinctions": [
@@ -24984,7 +24984,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 450,
+    "price": 1250,
     "rating": 4.3,
     "reviewCount": 1862,
     "distinctions": [
@@ -25024,7 +25024,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 500,
+    "price": 600,
     "rating": 4.6,
     "reviewCount": 1747,
     "distinctions": [
@@ -25066,7 +25066,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1150,
+    "price": 1550,
     "rating": 4.6,
     "reviewCount": 544,
     "distinctions": [
@@ -25108,7 +25108,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 1650,
+    "price": 550,
     "rating": 4.5,
     "reviewCount": 2514,
     "distinctions": [
@@ -25149,7 +25149,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 450,
+    "price": 500,
     "rating": 4.3,
     "reviewCount": 2981,
     "distinctions": [
@@ -25189,7 +25189,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "city",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 233,
     "distinctions": [
@@ -25230,7 +25230,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 750,
+    "price": 1750,
     "rating": 4.7,
     "reviewCount": 616,
     "distinctions": [
@@ -25272,7 +25272,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 2150,
+    "price": 750,
     "rating": 4.4,
     "reviewCount": 883,
     "distinctions": [
@@ -25313,7 +25313,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 2350,
+    "price": 1000,
     "rating": 4.7,
     "reviewCount": 1044,
     "distinctions": [
@@ -25355,7 +25355,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 650,
+    "price": 1050,
     "rating": 4.8,
     "reviewCount": 61,
     "distinctions": [
@@ -25396,7 +25396,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 700,
+    "price": 1150,
     "rating": 4.1,
     "reviewCount": 322,
     "distinctions": [
@@ -25436,7 +25436,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 600,
+    "price": 1200,
     "rating": 4.5,
     "reviewCount": 13,
     "distinctions": [
@@ -25477,7 +25477,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 650,
+    "price": 1800,
     "rating": 4.8,
     "reviewCount": 225,
     "distinctions": [
@@ -25518,7 +25518,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 500,
+    "price": 1150,
     "rating": 4.6,
     "reviewCount": 292,
     "distinctions": [
@@ -25560,7 +25560,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 750,
+    "price": 1650,
     "rating": 4.7,
     "reviewCount": 611,
     "distinctions": [
@@ -25602,7 +25602,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 600,
+    "price": 1200,
     "rating": 4.5,
     "reviewCount": 1470,
     "distinctions": [
@@ -25643,7 +25643,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 700,
+    "price": 500,
     "rating": 4.4,
     "reviewCount": 712,
     "distinctions": [
@@ -25684,7 +25684,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 750,
+    "price": 1200,
     "rating": 4.7,
     "reviewCount": 216,
     "distinctions": [
@@ -25726,7 +25726,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 2350,
+    "price": 2550,
     "rating": 4.7,
     "reviewCount": 874,
     "distinctions": [
@@ -25768,7 +25768,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 500,
+    "price": 1250,
     "rating": 4.6,
     "reviewCount": 314,
     "distinctions": [
@@ -25810,7 +25810,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 650,
+    "price": 1200,
     "rating": 4.8,
     "reviewCount": 176,
     "distinctions": [
@@ -25851,7 +25851,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 280,
     "distinctions": [
@@ -25892,7 +25892,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 500,
+    "price": 1700,
     "rating": 4.6,
     "reviewCount": 71,
     "distinctions": [
@@ -25974,7 +25974,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 500,
+    "price": 1050,
     "rating": 4.6,
     "reviewCount": 863,
     "distinctions": [
@@ -26016,7 +26016,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 750,
+    "price": 650,
     "rating": 4.7,
     "reviewCount": 80,
     "distinctions": [
@@ -26057,7 +26057,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "mountain",
-    "price": 500,
+    "price": 1500,
     "rating": 4.9,
     "reviewCount": 49,
     "distinctions": [
@@ -26138,7 +26138,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1150,
     "rating": 4.6,
     "reviewCount": 2970,
     "distinctions": [
@@ -26180,7 +26180,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 700,
+    "price": 1400,
     "rating": 4.4,
     "reviewCount": 5365,
     "distinctions": [
@@ -26221,7 +26221,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1500,
     "rating": 4.7,
     "reviewCount": 1001,
     "distinctions": [
@@ -26263,7 +26263,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 2400,
     "rating": 4.7,
     "reviewCount": 2631,
     "distinctions": [
@@ -26305,7 +26305,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1350,
     "rating": 4.6,
     "reviewCount": 4083,
     "distinctions": [
@@ -26347,7 +26347,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1350,
     "rating": 4.7,
     "reviewCount": 2937,
     "distinctions": [
@@ -26431,7 +26431,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 650,
+    "price": 1600,
     "rating": 4.8,
     "reviewCount": 855,
     "distinctions": [
@@ -26473,7 +26473,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 450,
+    "price": 1300,
     "rating": 4.3,
     "reviewCount": 3949,
     "distinctions": [
@@ -26513,7 +26513,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1850,
     "rating": 4.9,
     "reviewCount": 238,
     "distinctions": [
@@ -26554,7 +26554,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1100,
     "rating": 4.7,
     "reviewCount": 1677,
     "distinctions": [
@@ -26596,7 +26596,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 600,
+    "price": 1450,
     "rating": 4.5,
     "reviewCount": 4810,
     "distinctions": [
@@ -26637,7 +26637,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1000,
     "rating": 4.7,
     "reviewCount": 4583,
     "distinctions": [
@@ -26679,7 +26679,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1000,
     "rating": 4.6,
     "reviewCount": 1138,
     "distinctions": [
@@ -26721,7 +26721,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 450,
+    "price": 850,
     "rating": 4.3,
     "reviewCount": 1323,
     "distinctions": [
@@ -26761,7 +26761,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1800,
     "rating": 4.6,
     "reviewCount": 59,
     "distinctions": [
@@ -26802,7 +26802,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1750,
     "rating": 4.6,
     "reviewCount": 1514,
     "distinctions": [
@@ -26844,7 +26844,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 650,
+    "price": 750,
     "rating": 4.8,
     "reviewCount": 194,
     "distinctions": [
@@ -26885,7 +26885,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 2107,
     "distinctions": [
@@ -26926,7 +26926,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 1161,
     "distinctions": [
@@ -26968,7 +26968,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 600,
+    "price": 1350,
     "rating": 4.5,
     "reviewCount": 3464,
     "distinctions": [
@@ -27009,7 +27009,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1800,
     "rating": 4.6,
     "reviewCount": 1750,
     "distinctions": [
@@ -27051,7 +27051,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 500,
     "rating": 4.7,
     "reviewCount": 683,
     "distinctions": [
@@ -27093,7 +27093,7 @@
     "country": "United States",
     "region": "Americas",
     "locationType": "island",
-    "price": 550,
+    "price": 350,
     "rating": 4.2,
     "reviewCount": 3910,
     "distinctions": [
@@ -27133,7 +27133,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 2150,
+    "price": 1300,
     "rating": 4.4,
     "reviewCount": 664,
     "distinctions": [
@@ -27174,7 +27174,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 750,
     "rating": 4.6,
     "reviewCount": 458,
     "distinctions": [
@@ -27216,7 +27216,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 600,
+    "price": 500,
     "rating": 4.5,
     "reviewCount": 309,
     "distinctions": [
@@ -27257,7 +27257,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 493,
     "distinctions": [
@@ -27299,7 +27299,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 600,
+    "price": 700,
     "rating": 4.5,
     "reviewCount": 104,
     "distinctions": [
@@ -27340,7 +27340,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 600,
+    "price": 1450,
     "rating": 4.5,
     "reviewCount": 269,
     "distinctions": [
@@ -27381,7 +27381,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 650,
+    "price": 1200,
     "rating": 4.8,
     "reviewCount": 50,
     "distinctions": [
@@ -27422,7 +27422,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1600,
     "rating": 4.7,
     "reviewCount": 35,
     "distinctions": [
@@ -27463,7 +27463,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 800,
     "rating": 4.6,
     "reviewCount": 216,
     "distinctions": [
@@ -27505,7 +27505,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 450,
+    "price": 950,
     "rating": 4.3,
     "reviewCount": 635,
     "distinctions": [
@@ -27545,7 +27545,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 700,
+    "price": 800,
     "rating": 4.1,
     "reviewCount": 671,
     "distinctions": [
@@ -27585,7 +27585,7 @@
     "country": "Turks & Caicos",
     "region": "Americas",
     "locationType": "island",
-    "price": 1650,
+    "price": 1000,
     "rating": 4.5,
     "reviewCount": 178,
     "distinctions": [
@@ -27626,7 +27626,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1500,
     "rating": 4.7,
     "reviewCount": 264,
     "distinctions": [
@@ -27668,7 +27668,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 650,
     "rating": 4.7,
     "reviewCount": 394,
     "distinctions": [
@@ -27710,7 +27710,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1200,
     "rating": 4.7,
     "reviewCount": 198,
     "distinctions": [
@@ -27751,7 +27751,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 3200,
     "rating": 4.6,
     "reviewCount": 391,
     "distinctions": [
@@ -27793,7 +27793,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 650,
+    "price": 1050,
     "rating": 4.8,
     "reviewCount": 334,
     "distinctions": [
@@ -27835,7 +27835,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1650,
     "rating": 4.6,
     "reviewCount": 103,
     "distinctions": [
@@ -27876,7 +27876,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 1650,
+    "price": 500,
     "rating": 4.5,
     "reviewCount": 158,
     "distinctions": [
@@ -27917,7 +27917,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1800,
     "rating": 4.7,
     "reviewCount": 147,
     "distinctions": [
@@ -27958,7 +27958,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1600,
     "rating": 4.7,
     "reviewCount": 104,
     "distinctions": [
@@ -27999,7 +27999,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 600,
+    "price": 1250,
     "rating": 4.5,
     "reviewCount": 207,
     "distinctions": [
@@ -28040,7 +28040,7 @@
     "country": "France",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 99,
     "distinctions": [
@@ -28081,7 +28081,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 750,
+    "price": 1850,
     "rating": 4.7,
     "reviewCount": 746,
     "distinctions": [
@@ -28123,7 +28123,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 700,
+    "price": 550,
     "rating": 4.4,
     "reviewCount": 626,
     "distinctions": [
@@ -28164,7 +28164,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 700,
+    "price": 1650,
     "rating": 4.4,
     "reviewCount": 2931,
     "distinctions": [
@@ -28205,7 +28205,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1650,
     "rating": 4.6,
     "reviewCount": 256,
     "distinctions": [
@@ -28247,7 +28247,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 450,
+    "price": 1200,
     "rating": 4.3,
     "reviewCount": 3867,
     "distinctions": [
@@ -28287,7 +28287,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 1100,
     "rating": 4.6,
     "reviewCount": 183,
     "distinctions": [
@@ -28328,7 +28328,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 500,
+    "price": 600,
     "rating": 3.9,
     "reviewCount": 716,
     "distinctions": [
@@ -28368,7 +28368,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 550,
+    "price": 1250,
     "rating": 4.2,
     "reviewCount": 380,
     "distinctions": [
@@ -28408,7 +28408,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 700,
+    "price": 1200,
     "rating": 4.4,
     "reviewCount": 294,
     "distinctions": [
@@ -28449,7 +28449,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 600,
+    "price": 500,
     "rating": 4.5,
     "reviewCount": 1044,
     "distinctions": [
@@ -28490,7 +28490,7 @@
     "country": "Barbados",
     "region": "Americas",
     "locationType": "island",
-    "price": 550,
+    "price": 350,
     "rating": 4.2,
     "reviewCount": 2596,
     "distinctions": [
@@ -28530,7 +28530,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1000,
     "rating": 4.8,
     "reviewCount": 1946,
     "distinctions": [
@@ -28572,7 +28572,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 400,
     "rating": 4.8,
     "reviewCount": 1448,
     "distinctions": [
@@ -28614,7 +28614,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 400,
     "rating": 4.8,
     "reviewCount": 1257,
     "distinctions": [
@@ -28656,7 +28656,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 700,
+    "price": 1150,
     "rating": 4.4,
     "reviewCount": 1688,
     "distinctions": [
@@ -28697,7 +28697,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 2000,
     "rating": 4.8,
     "reviewCount": 1442,
     "distinctions": [
@@ -28739,7 +28739,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1250,
     "rating": 4.8,
     "reviewCount": 3131,
     "distinctions": [
@@ -28781,7 +28781,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 1681,
     "distinctions": [
@@ -28823,7 +28823,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 500,
     "rating": 4.7,
     "reviewCount": 1758,
     "distinctions": [
@@ -28865,7 +28865,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 11033,
     "distinctions": [
@@ -28907,7 +28907,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 900,
     "rating": 4.7,
     "reviewCount": 3699,
     "distinctions": [
@@ -28949,7 +28949,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 650,
     "rating": 4.7,
     "reviewCount": 2042,
     "distinctions": [
@@ -28991,7 +28991,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1650,
     "rating": 4.7,
     "reviewCount": 8401,
     "distinctions": [
@@ -29033,7 +29033,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "city",
-    "price": 500,
+    "price": 450,
     "rating": 4.6,
     "reviewCount": 8088,
     "distinctions": [
@@ -29075,7 +29075,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1450,
     "rating": 4.7,
     "reviewCount": 11428,
     "distinctions": [
@@ -29117,7 +29117,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1000,
     "rating": 4.7,
     "reviewCount": 10032,
     "distinctions": [
@@ -29159,7 +29159,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 6075,
     "distinctions": [
@@ -29201,7 +29201,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 400,
     "rating": 4.8,
     "reviewCount": 309,
     "distinctions": [
@@ -29243,7 +29243,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 446,
     "distinctions": [
@@ -29285,7 +29285,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1350,
     "rating": 4.6,
     "reviewCount": 536,
     "distinctions": [
@@ -29327,7 +29327,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 600,
+    "price": 450,
     "rating": 4.5,
     "reviewCount": 1026,
     "distinctions": [
@@ -29368,7 +29368,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 916,
     "distinctions": [
@@ -29410,7 +29410,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 700,
+    "price": 1350,
     "rating": 4.4,
     "reviewCount": 7539,
     "distinctions": [
@@ -29451,7 +29451,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1100,
     "rating": 4.6,
     "reviewCount": 783,
     "distinctions": [
@@ -29493,7 +29493,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 550,
+    "price": 750,
     "rating": 4.2,
     "reviewCount": 1547,
     "distinctions": [
@@ -29533,7 +29533,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 550,
     "rating": 4.9,
     "reviewCount": 139,
     "distinctions": [
@@ -29574,7 +29574,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 600,
+    "price": 650,
     "rating": 4.5,
     "reviewCount": 12875,
     "distinctions": [
@@ -29615,7 +29615,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1100,
     "rating": 4.8,
     "reviewCount": 262,
     "distinctions": [
@@ -29656,7 +29656,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1600,
     "rating": 4.9,
     "reviewCount": 186,
     "distinctions": [
@@ -29697,7 +29697,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 2850,
     "rating": 4.8,
     "reviewCount": 3721,
     "distinctions": [
@@ -29739,7 +29739,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1500,
     "rating": 4.7,
     "reviewCount": 762,
     "distinctions": [
@@ -29781,7 +29781,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 2700,
     "rating": 4.8,
     "reviewCount": 63,
     "distinctions": [
@@ -29822,7 +29822,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1800,
     "rating": 4.8,
     "reviewCount": 200,
     "distinctions": [
@@ -29863,7 +29863,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1600,
     "rating": 4.8,
     "reviewCount": 23671,
     "distinctions": [
@@ -29905,7 +29905,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 600,
+    "price": 650,
     "rating": 4.5,
     "reviewCount": 996,
     "distinctions": [
@@ -29946,7 +29946,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 750,
     "rating": 4.6,
     "reviewCount": 1403,
     "distinctions": [
@@ -29988,7 +29988,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1650,
     "rating": 4.7,
     "reviewCount": 298,
     "distinctions": [
@@ -30030,7 +30030,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 450,
+    "price": 1550,
     "rating": 4.3,
     "reviewCount": 1261,
     "distinctions": [
@@ -30070,7 +30070,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 950,
     "rating": 4.8,
     "reviewCount": 1698,
     "distinctions": [
@@ -30112,7 +30112,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 700,
     "rating": 4.7,
     "reviewCount": 50896,
     "distinctions": [
@@ -30154,7 +30154,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1550,
     "rating": 4.8,
     "reviewCount": 4106,
     "distinctions": [
@@ -30196,7 +30196,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 900,
     "rating": 4.6,
     "reviewCount": 912,
     "distinctions": [
@@ -30238,7 +30238,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 550,
     "rating": 4.9,
     "reviewCount": 42074,
     "distinctions": [
@@ -30280,7 +30280,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1100,
     "rating": 4.7,
     "reviewCount": 1476,
     "distinctions": [
@@ -30322,7 +30322,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 600,
+    "price": 750,
     "rating": 4.5,
     "reviewCount": 1026,
     "distinctions": [
@@ -30363,7 +30363,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 3658,
     "distinctions": [
@@ -30405,7 +30405,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 600,
     "rating": 4.7,
     "reviewCount": 4811,
     "distinctions": [
@@ -30447,7 +30447,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1400,
     "rating": 4.9,
     "reviewCount": 20803,
     "distinctions": [
@@ -30489,7 +30489,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1350,
     "rating": 4.7,
     "reviewCount": 683,
     "distinctions": [
@@ -30531,7 +30531,7 @@
     "country": "Mexico",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1850,
     "rating": 4.7,
     "reviewCount": 1312,
     "distinctions": [
@@ -30573,7 +30573,7 @@
     "country": "Argentina",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1350,
     "rating": 4.7,
     "reviewCount": 8915,
     "distinctions": [
@@ -30615,7 +30615,7 @@
     "country": "Argentina",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 8063,
     "distinctions": [
@@ -30657,7 +30657,7 @@
     "country": "Brazil",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1600,
     "rating": 4.8,
     "reviewCount": 41114,
     "distinctions": [
@@ -30699,7 +30699,7 @@
     "country": "Brazil",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 700,
     "rating": 4.7,
     "reviewCount": 8089,
     "distinctions": [
@@ -30741,7 +30741,7 @@
     "country": "Brazil",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 450,
     "rating": 4.7,
     "reviewCount": 4120,
     "distinctions": [
@@ -30783,7 +30783,7 @@
     "country": "Brazil",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 850,
     "rating": 4.6,
     "reviewCount": 12811,
     "distinctions": [
@@ -30825,7 +30825,7 @@
     "country": "Brazil",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1500,
     "rating": 4.6,
     "reviewCount": 5507,
     "distinctions": [
@@ -30867,7 +30867,7 @@
     "country": "Brazil",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1550,
     "rating": 4.7,
     "reviewCount": 1812,
     "distinctions": [
@@ -30909,7 +30909,7 @@
     "country": "Brazil",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 850,
     "rating": 4.7,
     "reviewCount": 3491,
     "distinctions": [
@@ -30951,7 +30951,7 @@
     "country": "Brazil",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 650,
     "rating": 4.7,
     "reviewCount": 1182,
     "distinctions": [
@@ -30993,7 +30993,7 @@
     "country": "Peru",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1450,
     "rating": 4.7,
     "reviewCount": 4667,
     "distinctions": [
@@ -31035,7 +31035,7 @@
     "country": "Peru",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 700,
     "rating": 4.7,
     "reviewCount": 8598,
     "distinctions": [
@@ -31077,7 +31077,7 @@
     "country": "Peru",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 400,
     "rating": 4.7,
     "reviewCount": 5696,
     "distinctions": [
@@ -31119,7 +31119,7 @@
     "country": "Peru",
     "region": "Americas",
     "locationType": "city",
-    "price": 750,
+    "price": 1350,
     "rating": 4.7,
     "reviewCount": 11176,
     "distinctions": [
@@ -31161,7 +31161,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1300,
     "rating": 4.8,
     "reviewCount": 4575,
     "distinctions": [
@@ -31203,7 +31203,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1600,
     "rating": 4.8,
     "reviewCount": 1577,
     "distinctions": [
@@ -31245,7 +31245,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 950,
     "rating": 4.7,
     "reviewCount": 931,
     "distinctions": [
@@ -31287,7 +31287,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1700,
     "rating": 4.6,
     "reviewCount": 7665,
     "distinctions": [
@@ -31329,7 +31329,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 650,
     "rating": 4.7,
     "reviewCount": 4559,
     "distinctions": [
@@ -31371,7 +31371,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 800,
     "rating": 4.7,
     "reviewCount": 7291,
     "distinctions": [
@@ -31413,7 +31413,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1350,
     "rating": 4.7,
     "reviewCount": 631,
     "distinctions": [
@@ -31455,7 +31455,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1450,
     "rating": 4.7,
     "reviewCount": 1678,
     "distinctions": [
@@ -31497,7 +31497,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1000,
     "rating": 4.8,
     "reviewCount": 9122,
     "distinctions": [
@@ -31539,7 +31539,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 550,
+    "price": 1350,
     "rating": 4.2,
     "reviewCount": 410,
     "distinctions": [
@@ -31579,7 +31579,7 @@
     "country": "Colombia",
     "region": "Americas",
     "locationType": "coastal",
-    "price": 700,
+    "price": 1650,
     "rating": 4.4,
     "reviewCount": 1713,
     "distinctions": [
@@ -31620,7 +31620,7 @@
     "country": "Chile",
     "region": "Americas",
     "locationType": "wilderness",
-    "price": 650,
+    "price": 1050,
     "rating": 4.8,
     "reviewCount": 263,
     "distinctions": [
@@ -31661,7 +31661,7 @@
     "country": "Chile",
     "region": "Americas",
     "locationType": "wilderness",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 1107,
     "distinctions": [
@@ -31703,7 +31703,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 1900,
     "rating": 4.7,
     "reviewCount": 6998,
     "distinctions": [
@@ -31745,7 +31745,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 2200,
     "rating": 4.7,
     "reviewCount": 101516,
     "distinctions": [
@@ -31787,7 +31787,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 2000,
     "rating": 4.7,
     "reviewCount": 25112,
     "distinctions": [
@@ -31829,7 +31829,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 2300,
     "rating": 4.7,
     "reviewCount": 3615,
     "distinctions": [
@@ -31871,7 +31871,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 650,
+    "price": 1800,
     "rating": 4.8,
     "reviewCount": 14427,
     "distinctions": [
@@ -31913,7 +31913,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 2350,
     "rating": 4.6,
     "reviewCount": 6309,
     "distinctions": [
@@ -31955,7 +31955,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 1400,
     "rating": 4.7,
     "reviewCount": 3100,
     "distinctions": [
@@ -31997,7 +31997,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 1450,
     "rating": 4.7,
     "reviewCount": 26063,
     "distinctions": [
@@ -32039,7 +32039,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 1800,
+    "price": 1350,
     "rating": 4.8,
     "reviewCount": 31812,
     "distinctions": [
@@ -32081,7 +32081,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 650,
+    "price": 1650,
     "rating": 4.8,
     "reviewCount": 8253,
     "distinctions": [
@@ -32123,7 +32123,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1300,
     "rating": 4.6,
     "reviewCount": 4024,
     "distinctions": [
@@ -32165,7 +32165,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 1800,
     "rating": 4.7,
     "reviewCount": 12401,
     "distinctions": [
@@ -32207,7 +32207,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 6062,
     "distinctions": [
@@ -32249,7 +32249,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 1400,
     "rating": 4.7,
     "reviewCount": 4476,
     "distinctions": [
@@ -32291,7 +32291,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 900,
     "rating": 4.7,
     "reviewCount": 8171,
     "distinctions": [
@@ -32375,7 +32375,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 600,
     "rating": 4.6,
     "reviewCount": 7991,
     "distinctions": [
@@ -32417,7 +32417,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 450,
     "rating": 4.6,
     "reviewCount": 7770,
     "distinctions": [
@@ -32459,7 +32459,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1000,
     "rating": 4.6,
     "reviewCount": 7196,
     "distinctions": [
@@ -32501,7 +32501,7 @@
     "country": "UAE",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 650,
     "rating": 4.9,
     "reviewCount": 984,
     "distinctions": [
@@ -32543,7 +32543,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1800,
     "rating": 4.6,
     "reviewCount": 1638,
     "distinctions": [
@@ -32585,7 +32585,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1450,
     "rating": 4.6,
     "reviewCount": 4854,
     "distinctions": [
@@ -32627,7 +32627,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 850,
     "rating": 4.6,
     "reviewCount": 5630,
     "distinctions": [
@@ -32669,7 +32669,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 650,
+    "price": 1250,
     "rating": 4.8,
     "reviewCount": 23214,
     "distinctions": [
@@ -32711,7 +32711,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 650,
+    "price": 1300,
     "rating": 4.8,
     "reviewCount": 6581,
     "distinctions": [
@@ -32753,7 +32753,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1800,
     "rating": 4.6,
     "reviewCount": 5588,
     "distinctions": [
@@ -32795,7 +32795,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 2000,
     "rating": 4.7,
     "reviewCount": 3206,
     "distinctions": [
@@ -32837,7 +32837,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 400,
     "rating": 4.7,
     "reviewCount": 1520,
     "distinctions": [
@@ -32879,7 +32879,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 600,
+    "price": 400,
     "rating": 4.5,
     "reviewCount": 2782,
     "distinctions": [
@@ -32920,7 +32920,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 1600,
     "rating": 4.7,
     "reviewCount": 10539,
     "distinctions": [
@@ -32962,7 +32962,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1250,
     "rating": 4.6,
     "reviewCount": 4978,
     "distinctions": [
@@ -33004,7 +33004,7 @@
     "country": "Qatar",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1750,
     "rating": 4.6,
     "reviewCount": 1324,
     "distinctions": [
@@ -33046,7 +33046,7 @@
     "country": "Oman",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 1050,
     "rating": 4.7,
     "reviewCount": 3898,
     "distinctions": [
@@ -33088,7 +33088,7 @@
     "country": "Oman",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 3590,
     "distinctions": [
@@ -33130,7 +33130,7 @@
     "country": "Oman",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 700,
     "rating": 4.6,
     "reviewCount": 3422,
     "distinctions": [
@@ -33172,7 +33172,7 @@
     "country": "Oman",
     "region": "Middle East",
     "locationType": "city",
-    "price": 700,
+    "price": 1150,
     "rating": 4.4,
     "reviewCount": 4588,
     "distinctions": [
@@ -33213,7 +33213,7 @@
     "country": "Oman",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 750,
     "rating": 4.6,
     "reviewCount": 1512,
     "distinctions": [
@@ -33255,7 +33255,7 @@
     "country": "Oman",
     "region": "Middle East",
     "locationType": "city",
-    "price": 600,
+    "price": 1200,
     "rating": 4.5,
     "reviewCount": 4638,
     "distinctions": [
@@ -33296,7 +33296,7 @@
     "country": "Oman",
     "region": "Middle East",
     "locationType": "city",
-    "price": 700,
+    "price": 1000,
     "rating": 4.4,
     "reviewCount": 4271,
     "distinctions": [
@@ -33337,7 +33337,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 2850,
     "rating": 4.6,
     "reviewCount": 7064,
     "distinctions": [
@@ -33379,7 +33379,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 450,
     "rating": 4.7,
     "reviewCount": 10121,
     "distinctions": [
@@ -33421,7 +33421,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 1250,
     "rating": 4.7,
     "reviewCount": 14011,
     "distinctions": [
@@ -33463,7 +33463,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1250,
     "rating": 4.6,
     "reviewCount": 2223,
     "distinctions": [
@@ -33505,7 +33505,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 650,
+    "price": 1050,
     "rating": 4.8,
     "reviewCount": 13599,
     "distinctions": [
@@ -33547,7 +33547,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1300,
     "rating": 4.6,
     "reviewCount": 12909,
     "distinctions": [
@@ -33589,7 +33589,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 650,
     "rating": 4.6,
     "reviewCount": 3912,
     "distinctions": [
@@ -33631,7 +33631,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 700,
+    "price": 1550,
     "rating": 4.4,
     "reviewCount": 6005,
     "distinctions": [
@@ -33672,7 +33672,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 750,
+    "price": 700,
     "rating": 4.7,
     "reviewCount": 16032,
     "distinctions": [
@@ -33714,7 +33714,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 600,
+    "price": 650,
     "rating": 4.5,
     "reviewCount": 3711,
     "distinctions": [
@@ -33755,7 +33755,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 500,
+    "price": 1200,
     "rating": 4.6,
     "reviewCount": 6778,
     "distinctions": [
@@ -33797,7 +33797,7 @@
     "country": "Jordan",
     "region": "Middle East",
     "locationType": "city",
-    "price": 600,
+    "price": 500,
     "rating": 4.5,
     "reviewCount": 1195,
     "distinctions": [
@@ -33838,7 +33838,7 @@
     "country": "Morocco",
     "region": "Africa",
     "locationType": "city",
-    "price": 500,
+    "price": 600,
     "rating": 4.6,
     "reviewCount": 2308,
     "distinctions": [
@@ -33880,7 +33880,7 @@
     "country": "Morocco",
     "region": "Africa",
     "locationType": "city",
-    "price": 600,
+    "price": 1350,
     "rating": 4.5,
     "reviewCount": 9062,
     "distinctions": [
@@ -33921,7 +33921,7 @@
     "country": "Morocco",
     "region": "Africa",
     "locationType": "city",
-    "price": 750,
+    "price": 500,
     "rating": 4.7,
     "reviewCount": 9598,
     "distinctions": [
@@ -33963,7 +33963,7 @@
     "country": "South Africa",
     "region": "Africa",
     "locationType": "coastal",
-    "price": 750,
+    "price": 550,
     "rating": 4.7,
     "reviewCount": 3543,
     "distinctions": [
@@ -34005,7 +34005,7 @@
     "country": "South Africa",
     "region": "Africa",
     "locationType": "coastal",
-    "price": 500,
+    "price": 1000,
     "rating": 4.6,
     "reviewCount": 3913,
     "distinctions": [
@@ -34047,7 +34047,7 @@
     "country": "South Africa",
     "region": "Africa",
     "locationType": "coastal",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 1910,
     "distinctions": [
@@ -34089,7 +34089,7 @@
     "country": "South Africa",
     "region": "Africa",
     "locationType": "coastal",
-    "price": 750,
+    "price": 500,
     "rating": 4.7,
     "reviewCount": 3330,
     "distinctions": [
@@ -34131,7 +34131,7 @@
     "country": "South Africa",
     "region": "Africa",
     "locationType": "coastal",
-    "price": 650,
+    "price": 700,
     "rating": 4.8,
     "reviewCount": 307,
     "distinctions": [
@@ -34173,7 +34173,7 @@
     "country": "South Africa",
     "region": "Africa",
     "locationType": "coastal",
-    "price": 650,
+    "price": 800,
     "rating": 4.8,
     "reviewCount": 458,
     "distinctions": [
@@ -34215,7 +34215,7 @@
     "country": "South Africa",
     "region": "Africa",
     "locationType": "coastal",
-    "price": 650,
+    "price": 1250,
     "rating": 4.8,
     "reviewCount": 253,
     "distinctions": [
@@ -34256,7 +34256,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "wilderness",
-    "price": 750,
+    "price": 2750,
     "rating": 4.7,
     "reviewCount": 700,
     "distinctions": [
@@ -34298,7 +34298,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "wilderness",
-    "price": 650,
+    "price": 900,
     "rating": 4.8,
     "reviewCount": 34,
     "distinctions": [
@@ -34339,7 +34339,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "wilderness",
-    "price": 500,
+    "price": 1200,
     "rating": 4.9,
     "reviewCount": 494,
     "distinctions": [
@@ -34381,7 +34381,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "wilderness",
-    "price": 650,
+    "price": 1650,
     "rating": 4.8,
     "reviewCount": 238,
     "distinctions": [
@@ -34422,7 +34422,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "wilderness",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 178,
     "distinctions": [
@@ -34504,7 +34504,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "wilderness",
-    "price": 750,
+    "price": 1850,
     "rating": 4.7,
     "reviewCount": 768,
     "distinctions": [
@@ -34546,7 +34546,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "wilderness",
-    "price": 400,
+    "price": 600,
     "rating": 5,
     "reviewCount": 31,
     "distinctions": [
@@ -34587,7 +34587,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "wilderness",
-    "price": 750,
+    "price": 600,
     "rating": 4.7,
     "reviewCount": 1995,
     "distinctions": [
@@ -34629,7 +34629,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "wilderness",
-    "price": 750,
+    "price": 450,
     "rating": 4.7,
     "reviewCount": 113,
     "distinctions": [
@@ -34670,7 +34670,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 500,
+    "price": 1500,
     "rating": 4.9,
     "reviewCount": 57,
     "distinctions": [
@@ -34711,7 +34711,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 650,
+    "price": 1450,
     "rating": 4.8,
     "reviewCount": 300,
     "distinctions": [
@@ -34752,7 +34752,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 500,
+    "price": 1850,
     "rating": 4.9,
     "reviewCount": 128,
     "distinctions": [
@@ -34793,7 +34793,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 750,
+    "price": 1600,
     "rating": 4.7,
     "reviewCount": 1818,
     "distinctions": [
@@ -34835,7 +34835,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 500,
+    "price": 1200,
     "rating": 4.6,
     "reviewCount": 1079,
     "distinctions": [
@@ -34877,7 +34877,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 500,
+    "price": 1500,
     "rating": 4.6,
     "reviewCount": 360,
     "distinctions": [
@@ -34919,7 +34919,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 500,
+    "price": 700,
     "rating": 4.6,
     "reviewCount": 1630,
     "distinctions": [
@@ -34961,7 +34961,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 600,
+    "price": 1200,
     "rating": 4.5,
     "reviewCount": 834,
     "distinctions": [
@@ -35002,7 +35002,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 750,
+    "price": 1150,
     "rating": 4.7,
     "reviewCount": 332,
     "distinctions": [
@@ -35044,7 +35044,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 750,
+    "price": 1700,
     "rating": 4.7,
     "reviewCount": 306,
     "distinctions": [
@@ -35086,7 +35086,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 500,
+    "price": 1350,
     "rating": 4.6,
     "reviewCount": 2174,
     "distinctions": [
@@ -35128,7 +35128,7 @@
     "country": "Tanzania",
     "region": "Africa",
     "locationType": "island",
-    "price": 750,
+    "price": 400,
     "rating": 4.7,
     "reviewCount": 847,
     "distinctions": [
@@ -35170,7 +35170,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "city",
-    "price": 750,
+    "price": 1250,
     "rating": 4.7,
     "reviewCount": 10493,
     "distinctions": [
@@ -35212,7 +35212,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "city",
-    "price": 500,
+    "price": 1150,
     "rating": 4.6,
     "reviewCount": 9287,
     "distinctions": [
@@ -35254,7 +35254,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "city",
-    "price": 500,
+    "price": 450,
     "rating": 4.6,
     "reviewCount": 3070,
     "distinctions": [
@@ -35296,7 +35296,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "city",
-    "price": 750,
+    "price": 1500,
     "rating": 4.7,
     "reviewCount": 6068,
     "distinctions": [
@@ -35338,7 +35338,7 @@
     "country": "Kenya",
     "region": "Africa",
     "locationType": "city",
-    "price": 500,
+    "price": 1250,
     "rating": 4.6,
     "reviewCount": 4709,
     "distinctions": [
@@ -35422,7 +35422,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 600,
+    "price": 950,
     "rating": 4.5,
     "reviewCount": 6069,
     "distinctions": [
@@ -35463,7 +35463,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 750,
+    "price": 2100,
     "rating": 4.7,
     "reviewCount": 567,
     "distinctions": [
@@ -35505,7 +35505,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 500,
+    "price": 700,
     "rating": 4.6,
     "reviewCount": 1091,
     "distinctions": [
@@ -35547,7 +35547,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 450,
+    "price": 950,
     "rating": 4.3,
     "reviewCount": 9632,
     "distinctions": [
@@ -35587,7 +35587,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 700,
+    "price": 1750,
     "rating": 4.4,
     "reviewCount": 5501,
     "distinctions": [
@@ -35628,7 +35628,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 500,
+    "price": 600,
     "rating": 4.6,
     "reviewCount": 1475,
     "distinctions": [
@@ -35670,7 +35670,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 700,
+    "price": 1300,
     "rating": 4.4,
     "reviewCount": 1902,
     "distinctions": [
@@ -35711,7 +35711,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 600,
+    "price": 550,
     "rating": 4.5,
     "reviewCount": 819,
     "distinctions": [
@@ -35752,7 +35752,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 700,
+    "price": 1550,
     "rating": 4.4,
     "reviewCount": 2981,
     "distinctions": [
@@ -35793,7 +35793,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 600,
+    "price": 1700,
     "rating": 4.5,
     "reviewCount": 5279,
     "distinctions": [
@@ -35834,7 +35834,7 @@
     "country": "Australia",
     "region": "Oceania",
     "locationType": "city",
-    "price": 500,
+    "price": 450,
     "rating": 4.6,
     "reviewCount": 2542,
     "distinctions": [
@@ -35876,7 +35876,7 @@
     "country": "New Zealand",
     "region": "Oceania",
     "locationType": "mountain",
-    "price": 400,
+    "price": 1200,
     "rating": 5,
     "reviewCount": 25,
     "distinctions": [
@@ -35917,7 +35917,7 @@
     "country": "New Zealand",
     "region": "Oceania",
     "locationType": "mountain",
-    "price": 2350,
+    "price": 1450,
     "rating": 4.7,
     "reviewCount": 99,
     "distinctions": [
@@ -35958,7 +35958,7 @@
     "country": "New Zealand",
     "region": "Oceania",
     "locationType": "mountain",
-    "price": 650,
+    "price": 450,
     "rating": 4.8,
     "reviewCount": 130,
     "distinctions": [
@@ -35999,7 +35999,7 @@
     "country": "New Zealand",
     "region": "Oceania",
     "locationType": "mountain",
-    "price": 600,
+    "price": 500,
     "rating": 4.5,
     "reviewCount": 629,
     "distinctions": [
@@ -36040,7 +36040,7 @@
     "country": "New Zealand",
     "region": "Oceania",
     "locationType": "mountain",
-    "price": 600,
+    "price": 450,
     "rating": 4.5,
     "reviewCount": 64,
     "distinctions": [
@@ -36081,7 +36081,7 @@
     "country": "New Zealand",
     "region": "Oceania",
     "locationType": "mountain",
-    "price": 600,
+    "price": 400,
     "rating": 4.5,
     "reviewCount": 715,
     "distinctions": [
@@ -36122,7 +36122,7 @@
     "country": "New Zealand",
     "region": "Oceania",
     "locationType": "mountain",
-    "price": 700,
+    "price": 1200,
     "rating": 4.4,
     "reviewCount": 985,
     "distinctions": [
@@ -36163,7 +36163,7 @@
     "country": "New Zealand",
     "region": "Oceania",
     "locationType": "mountain",
-    "price": 450,
+    "price": 850,
     "rating": 4.3,
     "reviewCount": 3050,
     "distinctions": [
@@ -36203,7 +36203,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 600,
+    "price": 1300,
     "rating": 4.5,
     "reviewCount": 2477,
     "distinctions": [
@@ -36244,7 +36244,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 500,
+    "price": 1550,
     "rating": 4.9,
     "reviewCount": 98,
     "distinctions": [
@@ -36285,7 +36285,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 2050,
     "distinctions": [
@@ -36368,7 +36368,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 400,
+    "price": 1550,
     "rating": 5,
     "reviewCount": 63,
     "distinctions": [
@@ -36409,7 +36409,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 500,
+    "price": 800,
     "rating": 4.6,
     "reviewCount": 268,
     "distinctions": [
@@ -36451,7 +36451,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 500,
+    "price": 1750,
     "rating": 4.9,
     "reviewCount": 152,
     "distinctions": [
@@ -36492,7 +36492,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 700,
+    "price": 650,
     "rating": 4.4,
     "reviewCount": 259,
     "distinctions": [
@@ -36533,7 +36533,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 600,
+    "price": 1150,
     "rating": 4.5,
     "reviewCount": 3345,
     "distinctions": [
@@ -36574,7 +36574,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 650,
+    "price": 850,
     "rating": 4.8,
     "reviewCount": 385,
     "distinctions": [
@@ -36616,7 +36616,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 700,
+    "price": 750,
     "rating": 4.4,
     "reviewCount": 5199,
     "distinctions": [
@@ -36657,7 +36657,7 @@
     "country": "Fiji",
     "region": "Oceania",
     "locationType": "island",
-    "price": 500,
+    "price": 1500,
     "rating": 4.6,
     "reviewCount": 153,
     "distinctions": [
@@ -36698,7 +36698,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 750,
+    "price": 1700,
     "rating": 4.7,
     "reviewCount": 1392,
     "distinctions": [
@@ -36740,7 +36740,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 750,
+    "price": 1800,
     "rating": 4.7,
     "reviewCount": 880,
     "distinctions": [
@@ -36782,7 +36782,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 500,
+    "price": 850,
     "rating": 4.6,
     "reviewCount": 1030,
     "distinctions": [
@@ -36824,7 +36824,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 650,
+    "price": 700,
     "rating": 4.8,
     "reviewCount": 807,
     "distinctions": [
@@ -36866,7 +36866,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 750,
+    "price": 1600,
     "rating": 4.7,
     "reviewCount": 233,
     "distinctions": [
@@ -36908,7 +36908,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 750,
+    "price": 600,
     "rating": 4.7,
     "reviewCount": 959,
     "distinctions": [
@@ -36950,7 +36950,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 500,
+    "price": 1600,
     "rating": 4.6,
     "reviewCount": 1051,
     "distinctions": [
@@ -36992,7 +36992,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 650,
+    "price": 1650,
     "rating": 4.8,
     "reviewCount": 709,
     "distinctions": [
@@ -37034,7 +37034,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 750,
+    "price": 450,
     "rating": 4.7,
     "reviewCount": 23,
     "distinctions": [
@@ -37075,7 +37075,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 700,
+    "price": 750,
     "rating": 4.1,
     "reviewCount": 553,
     "distinctions": [
@@ -37115,7 +37115,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 500,
+    "price": 800,
     "rating": 4.9,
     "reviewCount": 154,
     "distinctions": [
@@ -37156,7 +37156,7 @@
     "country": "French Polynesia",
     "region": "Oceania",
     "locationType": "island",
-    "price": 700,
+    "price": 1150,
     "rating": 4.1,
     "reviewCount": 843,
     "distinctions": [
