@@ -12,6 +12,18 @@ const https = require('https');
 const fs   = require('fs');
 const path = require('path');
 
+// Use system proxy so Node.js routes through HTTPS_PROXY like curl does
+let proxyAgent = null;
+const proxyUrl = process.env.HTTPS_PROXY || process.env.https_proxy;
+if (proxyUrl) {
+  try {
+    const { HttpsProxyAgent } = require(path.join(__dirname, '../node_modules/https-proxy-agent/dist/index.js'));
+    proxyAgent = new HttpsProxyAgent(proxyUrl);
+  } catch (e) {
+    console.warn('Could not load https-proxy-agent:', e.message);
+  }
+}
+
 const API_KEY   = 'AIzaSyD6WBDDleE1YASBhDPM_QlSMb7WwZ1kt-s';
 const OUTPUT    = path.join(__dirname, '../src/data/hotels-real.json');
 const PROGRESS  = path.join(__dirname, '../src/data/.fetch-progress.json');
@@ -239,35 +251,54 @@ function buildDescription(name, city, country, idx) {
 }
 
 // ─── HTTP helpers ──────────────────────────────────────────────────────────────
-function httpsGet(url) {
+function httpsRequest(method, url, headers, body) {
   return new Promise((resolve, reject) => {
-    https.get(url, (res) => {
+    const parsed = new URL(url);
+    const opts = {
+      hostname: parsed.hostname,
+      path: parsed.pathname + parsed.search,
+      method,
+      headers,
+      ...(proxyAgent ? { agent: proxyAgent } : {}),
+    };
+    const req = https.request(opts, (res) => {
       let data = '';
       res.on('data', c => data += c);
       res.on('end', () => {
         try { resolve(JSON.parse(data)); }
-        catch (e) { reject(new Error(`JSON parse error: ${e.message}`)); }
+        catch (e) { reject(new Error(`JSON parse error (status ${res.statusCode}): ${data.substring(0, 300)}`)); }
       });
-    }).on('error', reject);
+    });
+    req.on('error', reject);
+    if (body) req.write(body);
+    req.end();
   });
 }
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-function photoUrl(ref) {
-  return `https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photoreference=${ref}&key=${API_KEY}`;
+// Places API v1 photo URL (browser-loadable redirect URL)
+function photoUrl(photoName) {
+  return `https://places.googleapis.com/v1/${photoName}/media?maxWidthPx=1600&key=${API_KEY}`;
 }
 
-// ─── API calls ────────────────────────────────────────────────────────────────
+// ─── API calls (Places API v1) ────────────────────────────────────────────────
 async function textSearch(query) {
-  const url = `https://maps.googleapis.com/maps/api/place/textsearch/json?query=${encodeURIComponent(query)}&type=lodging&key=${API_KEY}`;
-  return httpsGet(url);
+  const url = `https://places.googleapis.com/v1/places:searchText`;
+  const body = JSON.stringify({ textQuery: query, includedType: 'lodging', maxResultCount: 20 });
+  return httpsRequest('POST', url, {
+    'Content-Type': 'application/json',
+    'X-Goog-Api-Key': API_KEY,
+    'X-Goog-FieldMask': 'places.id,places.displayName,places.rating,places.userRatingCount,places.priceLevel,places.photos,places.websiteUri',
+  }, body);
 }
 
 async function placeDetails(placeId) {
-  const fields = 'place_id,name,formatted_address,rating,user_ratings_total,website,photos,price_level,types';
-  const url = `https://maps.googleapis.com/maps/api/place/details/json?place_id=${placeId}&fields=${fields}&key=${API_KEY}`;
-  return httpsGet(url);
+  const url = `https://places.googleapis.com/v1/places/${placeId}`;
+  return httpsRequest('GET', url, {
+    'X-Goog-Api-Key': API_KEY,
+    'X-Goog-FieldMask': 'id,displayName,rating,userRatingCount,photos,priceLevel,websiteUri',
+  }, null);
 }
 
 // ─── Main ─────────────────────────────────────────────────────────────────────
@@ -304,26 +335,25 @@ async function main() {
       continue;
     }
 
-    if (searchResult.status !== 'OK') {
-      console.warn(`  ✗ Status ${searchResult.status} for ${dest.city}: ${searchResult.error_message || ''}`);
+    if (!searchResult.places || searchResult.places.length === 0) {
+      console.warn(`  ✗ No results for ${dest.city}: ${JSON.stringify(searchResult).substring(0, 100)}`);
       doneSet.add(key);
       continue;
     }
 
-    const candidates = searchResult.results
+    const candidates = searchResult.places
       .filter(r => (r.rating || 0) >= 3.8)
       .slice(0, MAX_PER);
 
-    console.log(`  Found ${searchResult.results.length} results, processing ${candidates.length} top candidates`);
+    console.log(`  Found ${searchResult.places.length} results, processing ${candidates.length} top candidates`);
 
     let addedForDest = 0;
     for (const candidate of candidates) {
       await sleep(DELAY);
       let details;
       try {
-        const resp = await placeDetails(candidate.place_id);
-        if (resp.status !== 'OK') { console.warn(`    ✗ Details failed: ${resp.status}`); continue; }
-        details = resp.result;
+        details = await placeDetails(candidate.id);
+        if (!details || details.error) { console.warn(`    ✗ Details failed: ${JSON.stringify(details).substring(0, 100)}`); continue; }
       } catch (e) {
         console.error(`    ✗ Details error: ${e.message}`);
         continue;
@@ -331,19 +361,19 @@ async function main() {
 
       // Need at least some photos
       if (!details.photos || details.photos.length === 0) {
-        console.log(`    ✗ No photos: ${details.name}`);
+        console.log(`    ✗ No photos: ${details.displayName && details.displayName.text}`);
         continue;
       }
 
-      const name     = details.name;
+      const name     = (details.displayName && details.displayName.text) || (candidate.displayName && candidate.displayName.text) || 'Unknown Hotel';
       const brandId  = detectBrand(name);
       const brand    = BRAND_META[brandId];
       const rating   = details.rating || candidate.rating || 4.5;
-      const reviews  = details.user_ratings_total || candidate.user_ratings_total || 100;
-      const pLevel   = details.price_level ?? candidate.price_level ?? 4;
+      const reviews  = details.userRatingCount || candidate.userRatingCount || 100;
+      const pLevel   = details.priceLevel === 'PRICE_LEVEL_VERY_EXPENSIVE' ? 4 : details.priceLevel === 'PRICE_LEVEL_EXPENSIVE' ? 3 : candidate.priceLevel === 'PRICE_LEVEL_VERY_EXPENSIVE' ? 4 : 3;
       const price    = priceFromLevel(pLevel, rating);
-      const website  = details.website || `https://www.google.com/maps/place/?q=place_id:${details.place_id}`;
-      const images   = details.photos.slice(0, 10).map(p => photoUrl(p.photo_reference));
+      const website  = details.websiteUri || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(name)}`;
+      const images   = details.photos.slice(0, 10).map(p => photoUrl(p.name));
       const dists    = buildDistinctions(rating, reviews);
       const amenities = buildAmenities(dest.type, brand.tier);
       const desc     = buildDescription(name, dest.city, dest.country, nextId);
