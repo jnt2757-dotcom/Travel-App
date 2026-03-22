@@ -118,12 +118,12 @@ export function useLivePricing(locationQuery, dateRange, allHotels) {
           return;
         }
 
-        // Step 2: search hotels with bulk pricing via MakCorps city endpoint
-        // /mapping returns document_id as the city/hotel ID
+        // Step 2: fetch dynamic pricing for all hotels
         const results = await searchHotelsWithPricing({
           cityId: dest.document_id,
           checkIn,
           checkOut,
+          allHotels,
         });
 
         if (guard.cancelled) return;
@@ -143,7 +143,7 @@ export function useLivePricing(locationQuery, dateRange, allHotels) {
         if (topMatches.length > 0 && !guard.cancelled) {
           const roomResults = await Promise.allSettled(
             topMatches.map(([ourHotelId, data]) =>
-              getRoomAvailability({ hotelId: data.bookingId, checkIn, checkOut })
+              getRoomAvailability({ hotelId: data.bookingId, checkIn, checkOut, allHotels })
                 .then((room) => (room ? { ourHotelId, room } : null))
                 .catch(() => null)
             )
