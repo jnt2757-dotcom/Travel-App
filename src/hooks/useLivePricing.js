@@ -119,8 +119,9 @@ export function useLivePricing(locationQuery, dateRange, allHotels) {
         }
 
         // Step 2: search hotels with bulk pricing via MakCorps city endpoint
+        // /mapping returns document_id as the city/hotel ID
         const results = await searchHotelsWithPricing({
-          cityId: dest.cityid ?? dest.city_id ?? dest.id,
+          cityId: dest.document_id,
           checkIn,
           checkOut,
         });
@@ -170,7 +171,7 @@ export function useLivePricing(locationQuery, dateRange, allHotels) {
         }
       } catch (err) {
         if (guard.cancelled) return;
-        console.error('[useLivePricing]', err);
+        console.error('[useLivePricing] error:', err?.message ?? err);
         setError('Live pricing unavailable — showing catalogue prices');
       } finally {
         if (!guard.cancelled) setIsLoading(false);
