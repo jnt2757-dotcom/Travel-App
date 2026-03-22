@@ -100,7 +100,7 @@ export default function HotelCard({ hotel, dateRange, livePrice, isPricingLoadin
               <div className="flex items-center gap-1 mb-1">
                 <div className="w-1.5 h-1.5 rounded-full bg-gold animate-pulse" />
                 <span className="text-[8px] tracking-[0.2em] uppercase text-gold font-medium">
-                  {livePrice?.roomName ? `${livePrice.roomName} · Live` : 'Live · Booking.com'}
+                  {livePrice?.roomName ? `${livePrice.roomName} · Live` : 'Live price'}
                 </span>
               </div>
             )}

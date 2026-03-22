@@ -29,10 +29,10 @@ function matchScore(a, b) {
 }
 
 /**
- * Given our hotel list and Booking.com search results, build a map:
+ * Given our hotel list and MakCorps search results, build a map:
  *   { [ourHotelId]: { pricePerNight, totalPrice, currency, nights, bookingId } }
  *
- * Each Booking.com result is matched to the closest hotel in our list
+ * Each MakCorps result is matched to the closest hotel in our list
  * by normalised name; matches below 0.55 are discarded.
  */
 function buildPriceMap(ourHotels, bookingResults) {
@@ -118,18 +118,16 @@ export function useLivePricing(locationQuery, dateRange, allHotels) {
           return;
         }
 
-        // Step 2: search hotels with bulk pricing
-        // Use search_type from the destination result (more accurate than dest_type)
+        // Step 2: search hotels with bulk pricing via MakCorps city endpoint
         const results = await searchHotelsWithPricing({
-          destId: dest.dest_id,
-          destType: dest.search_type ?? dest.dest_type,
+          cityId: dest.cityid ?? dest.city_id ?? dest.id,
           checkIn,
           checkOut,
         });
 
         if (guard.cancelled) return;
 
-        // Step 3: match Booking.com results to our hotel catalogue by name
+        // Step 3: match MakCorps results to our hotel catalogue by name
         const initialMap = buildPriceMap(allHotels, results);
 
         // Publish initial prices immediately so cards update without waiting for step 4

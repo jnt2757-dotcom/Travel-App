@@ -75,7 +75,7 @@ export default function HotelGrid({
                 <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z" />
               </svg>
               <span className="text-cream-muted text-xs tracking-wide">
-                Fetching live prices from Booking.com…
+                Fetching live prices…
               </span>
             </>
           ) : pricingError ? (
@@ -91,7 +91,7 @@ export default function HotelGrid({
                 <span className="text-cream">{nights} night{nights !== 1 ? 's' : ''}</span>
                 {' '}·{' '}
                 <span className="text-gold">{liveCount} properties updated</span>
-                {' '}via Booking.com
+                {' '}via MakCorps
               </span>
             </>
           ) : null}
