@@ -81,16 +81,15 @@ export function useLivePricing(locationQuery, dateRange, allHotels) {
   const [error, setError] = useState(null);
   const abortRef = useRef(null);
 
-  const checkIn = dateRange?.from ? format(dateRange.from, 'yyyy-MM-dd') : null;
-  const checkOut = dateRange?.to ? format(dateRange.to, 'yyyy-MM-dd') : null;
+  // Fall back to today + tomorrow so live prices always load even without date selection
+  const today = new Date();
+  const tomorrow = new Date(today);
+  tomorrow.setDate(today.getDate() + 1);
+
+  const checkIn = dateRange?.from ? format(dateRange.from, 'yyyy-MM-dd') : format(today, 'yyyy-MM-dd');
+  const checkOut = dateRange?.to ? format(dateRange.to, 'yyyy-MM-dd') : format(tomorrow, 'yyyy-MM-dd');
 
   useEffect(() => {
-    // Clear prices if dates are removed
-    if (!checkIn || !checkOut) {
-      setPriceMap({});
-      setError(null);
-      return;
-    }
 
     // Cancel previous in-flight request
     if (abortRef.current) {
